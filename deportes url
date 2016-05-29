@@ -15,7 +15,7 @@
 		
 	
 
-	<item><title>[COLOR skyblue]                           [B][ Deportes Reivax Movie ] [/B] [/COLOR]</title><link>http://ignorame.ime</link><thumbnail>https://wallpaperscraft.com/image/triangle_light_blurred_88541_1920x1080.jpg</thumbnail></item>
+	<item><title>[COLOR skyblue]                           [B][ Deportes Reivax Movie ] [/B] [/COLOR]</title><link>http://ignorame.ime</link><thumbnail>https://4.bp.blogspot.com/-UDcBF0Rmzt4/V0r1Z2wiY6I/AAAAAAAAAC8/PSPBKn4-__ofUAjrRfkGRutMvWWLKCunACLcB/s1600/icon.jpg</thumbnail></item>
 			
 			
 			
@@ -23,8 +23,8 @@
 <item><title> [COLOR lime]•[/COLOR]    [COLOR deepskyblue]Agenda del Dia [/COLOR][COLOR skyblue] RojaDirecta[/COLOR]</title>
 <link>ignorme</link>
 <jsonrpc>plugin://plugin.video.SportsDevil/?item=url=livesports/rojadirecta.me.cfg&amp;mode=1</jsonrpc>
-<thumbnail>https://wallpaperscraft.com/image/triangle_light_blurred_88541_1920x1080.jpg</thumbnail>
-<thumbnail>https://wallpaperscraft.com/image/triangle_light_blurred_88541_1920x1080.jpg</thumbnail></item>
+<thumbnail>https://4.bp.blogspot.com/-UDcBF0Rmzt4/V0r1Z2wiY6I/AAAAAAAAAC8/PSPBKn4-__ofUAjrRfkGRutMvWWLKCunACLcB/s1600/icon.jpg</thumbnail>
+<thumbnail>https://4.bp.blogspot.com/-UDcBF0Rmzt4/V0r1Z2wiY6I/AAAAAAAAAC8/PSPBKn4-__ofUAjrRfkGRutMvWWLKCunACLcB/s1600/icon.jpg</thumbnail></item>
 
  
 
@@ -33,14 +33,14 @@
 <title> [COLOR lime]•[/COLOR]    [COLOR lime][B] EXTRA[/COLOR][COLOR chartreuse]TIME [/COLOR][/B]  [COLOR lightblue] [I]Eventos del Dia[/I][/COLOR]</title>
 <link>$doregex[makelist]</link>
 <externallink>http://adryanlist.org/adryan/multicanales.xml</externallink>
-<thumbnail>https://wallpaperscraft.com/image/triangle_light_blurred_88541_1920x1080.jpg</thumbnail>
+<thumbnail>https://4.bp.blogspot.com/-UDcBF0Rmzt4/V0r1Z2wiY6I/AAAAAAAAAC8/PSPBKn4-__ofUAjrRfkGRutMvWWLKCunACLcB/s1600/icon.jpg</thumbnail>
 </item>
 
 <item>
 <title> [COLOR lime]•[/COLOR]    [COLOR deepskyblue]Canales [B]España [/B][/COLOR][COLOR skyblue] [/COLOR]</title>
 <link>$doregex[makelist]</link>
 <externallink>http://adryanlist.org/adryan/depesp.xml</externallink>
-<thumbnail>https://wallpaperscraft.com/image/triangle_light_blurred_88541_1920x1080.jpg</thumbnail>
+<thumbnail>https://4.bp.blogspot.com/-UDcBF0Rmzt4/V0r1Z2wiY6I/AAAAAAAAAC8/PSPBKn4-__ofUAjrRfkGRutMvWWLKCunACLcB/s1600/icon.jpg</thumbnail>
 </item>
 
 
@@ -48,7 +48,7 @@
 <title> [COLOR lime]•[/COLOR]    [COLOR deepskyblue]Canales [B]Latinos[/B]  [/COLOR][COLOR skyblue] [/COLOR]</title>
 <link>$doregex[makelist]</link>
 <externallink>http://adryanlist.org/adryan/deplat.xml</externallink>
-<thumbnail>https://wallpaperscraft.com/image/triangle_light_blurred_88541_1920x1080.jpg</thumbnail>
+<thumbnail>https://4.bp.blogspot.com/-UDcBF0Rmzt4/V0r1Z2wiY6I/AAAAAAAAAC8/PSPBKn4-__ofUAjrRfkGRutMvWWLKCunACLcB/s1600/icon.jpg</thumbnail>
 </item>
    
    
@@ -96,7 +96,7 @@
 <page>http://www.dailydeportes.com/schedule.html</page>
 <referer></referer>
 <cookieJar></cookieJar>
-</regex><thumbnail>https://wallpaperscraft.com/image/triangle_light_blurred_88541_1920x1080.jpg</thumbnail>
+</regex><thumbnail>https://4.bp.blogspot.com/-UDcBF0Rmzt4/V0r1Z2wiY6I/AAAAAAAAAC8/PSPBKn4-__ofUAjrRfkGRutMvWWLKCunACLcB/s1600/icon.jpg</thumbnail>
 </item>
 
 
@@ -177,7 +177,7 @@
 <page>http://www.dinozap.info/prog.txt</page>
 <cookieJar></cookieJar>
 </regex>
-<thumbnail>https://wallpaperscraft.com/image/triangle_light_blurred_88541_1920x1080.jpg</thumbnail>
+<thumbnail>https://4.bp.blogspot.com/-UDcBF0Rmzt4/V0r1Z2wiY6I/AAAAAAAAAC8/PSPBKn4-__ofUAjrRfkGRutMvWWLKCunACLcB/s1600/icon.jpg</thumbnail>
 </item>
 
 
@@ -224,7 +224,7 @@
 <page>http://www.vipgoal.net/</page>
 <referer></referer>
 <cookieJar></cookieJar>
-</regex><thumbnail>https://wallpaperscraft.com/image/triangle_light_blurred_88541_1920x1080.jpg</thumbnail>
+</regex><thumbnail>https://4.bp.blogspot.com/-UDcBF0Rmzt4/V0r1Z2wiY6I/AAAAAAAAAC8/PSPBKn4-__ofUAjrRfkGRutMvWWLKCunACLcB/s1600/icon.jpg</thumbnail>
 </item>
 -->
 
@@ -242,7 +242,7 @@
 <page>http://www.vipgoal.net/</page>
 <referer></referer>
 <cookieJar></cookieJar>
-</regex><thumbnail>https://wallpaperscraft.com/image/triangle_light_blurred_88541_1920x1080.jpg</thumbnail>
+</regex><thumbnail>https://4.bp.blogspot.com/-UDcBF0Rmzt4/V0r1Z2wiY6I/AAAAAAAAAC8/PSPBKn4-__ofUAjrRfkGRutMvWWLKCunACLcB/s1600/icon.jpg</thumbnail>
 </item>
 
 
@@ -263,7 +263,7 @@
 <page>http://torrent-tv.ru/</page>
 <referer></referer>
 <cookieJar></cookieJar>
-</regex><thumbnail>https://wallpaperscraft.com/image/triangle_light_blurred_88541_1920x1080.jpg</thumbnail>
+</regex><thumbnail>https://4.bp.blogspot.com/-UDcBF0Rmzt4/V0r1Z2wiY6I/AAAAAAAAAC8/PSPBKn4-__ofUAjrRfkGRutMvWWLKCunACLcB/s1600/icon.jpg</thumbnail>
 </item>
 
 <item>
@@ -280,7 +280,7 @@
 <page>http://www.livefootballol.me/acestream-channel-list-new.html</page>
 <referer></referer>
 <cookieJar></cookieJar>
-</regex><thumbnail>https://wallpaperscraft.com/image/triangle_light_blurred_88541_1920x1080.jpg</thumbnail>
+</regex><thumbnail>https://4.bp.blogspot.com/-UDcBF0Rmzt4/V0r1Z2wiY6I/AAAAAAAAAC8/PSPBKn4-__ofUAjrRfkGRutMvWWLKCunACLcB/s1600/icon.jpg</thumbnail>
 </item>
 
 
@@ -369,7 +369,7 @@
 <referer></referer>
 <cookieJar></cookieJar>
 </regex>
-<thumbnail>https://wallpaperscraft.com/image/triangle_light_blurred_88541_1920x1080.jpg</thumbnail>
+<thumbnail>https://4.bp.blogspot.com/-UDcBF0Rmzt4/V0r1Z2wiY6I/AAAAAAAAAC8/PSPBKn4-__ofUAjrRfkGRutMvWWLKCunACLcB/s1600/icon.jpg</thumbnail>
 </item>
 
 
@@ -411,7 +411,7 @@
 <referer></referer>
 <cookieJar></cookieJar>
 </regex>
-<thumbnail>https://wallpaperscraft.com/image/triangle_light_blurred_88541_1920x1080.jpg</thumbnail>
+<thumbnail>https://4.bp.blogspot.com/-UDcBF0Rmzt4/V0r1Z2wiY6I/AAAAAAAAAC8/PSPBKn4-__ofUAjrRfkGRutMvWWLKCunACLcB/s1600/icon.jpg</thumbnail>
 </item>
 
 
@@ -451,7 +451,7 @@
 <referer></referer>
 <cookieJar></cookieJar>
 </regex>
-<thumbnail>https://wallpaperscraft.com/image/triangle_light_blurred_88541_1920x1080.jpg</thumbnail>
+<thumbnail>https://4.bp.blogspot.com/-UDcBF0Rmzt4/V0r1Z2wiY6I/AAAAAAAAAC8/PSPBKn4-__ofUAjrRfkGRutMvWWLKCunACLcB/s1600/icon.jpg</thumbnail>
 </item>
 
 			
@@ -490,7 +490,7 @@
 <referer></referer>
 <cookieJar></cookieJar>
 </regex>
-<thumbnail>https://wallpaperscraft.com/image/triangle_light_blurred_88541_1920x1080.jpg</thumbnail>
+<thumbnail>https://4.bp.blogspot.com/-UDcBF0Rmzt4/V0r1Z2wiY6I/AAAAAAAAAC8/PSPBKn4-__ofUAjrRfkGRutMvWWLKCunACLcB/s1600/icon.jpg</thumbnail>
 </item>
 
 
@@ -533,7 +533,7 @@
 <referer></referer>
 <cookieJar></cookieJar>
 </regex>
-<thumbnail>https://wallpaperscraft.com/image/triangle_light_blurred_88541_1920x1080.jpg</thumbnail>
+<thumbnail>https://4.bp.blogspot.com/-UDcBF0Rmzt4/V0r1Z2wiY6I/AAAAAAAAAC8/PSPBKn4-__ofUAjrRfkGRutMvWWLKCunACLcB/s1600/icon.jpg</thumbnail>
 </item>
 
 
@@ -577,7 +577,7 @@
 <referer></referer>
 <cookieJar></cookieJar>
 </regex>
-<thumbnail>https://wallpaperscraft.com/image/triangle_light_blurred_88541_1920x1080.jpg</thumbnail>
+<thumbnail>https://4.bp.blogspot.com/-UDcBF0Rmzt4/V0r1Z2wiY6I/AAAAAAAAAC8/PSPBKn4-__ofUAjrRfkGRutMvWWLKCunACLcB/s1600/icon.jpg</thumbnail>
 </item>
 
 
@@ -619,14 +619,14 @@
 <listrepeat><![CDATA[
 			<title>[COLOR deepskyblue][makelist.param1][/COLOR]</title>
 			<link>plugin://program.plexus/?url=sop://[makelist.param2]&amp;mode=2&amp;name=Adryanlist+Sopcast</link>
-			<thumbnail>https://wallpaperscraft.com/image/triangle_light_blurred_88541_1920x1080.jpg</thumbnail>
+			<thumbnail>https://4.bp.blogspot.com/-UDcBF0Rmzt4/V0r1Z2wiY6I/AAAAAAAAAC8/PSPBKn4-__ofUAjrRfkGRutMvWWLKCunACLcB/s1600/icon.jpg</thumbnail>
 			]]></listrepeat>
 <expres>channel/(.*?)-sopcast[\w\W\s]{0,60}sop://(.*?)<</expres>
 <page>http://www.livefootballol.me/sopcast-channel-list.html</page>
 <referer></referer>
 <cookieJar></cookieJar>
 </regex>
-<thumbnail>https://wallpaperscraft.com/image/triangle_light_blurred_88541_1920x1080.jpg</thumbnail>
+<thumbnail>https://4.bp.blogspot.com/-UDcBF0Rmzt4/V0r1Z2wiY6I/AAAAAAAAAC8/PSPBKn4-__ofUAjrRfkGRutMvWWLKCunACLcB/s1600/icon.jpg</thumbnail>
 </item>
 
 
@@ -645,7 +645,7 @@
 <page>http://www.pirlotvlive.com/</page>
 <referer></referer>
 <cookieJar></cookieJar>
-</regex><thumbnail>https://wallpaperscraft.com/image/triangle_light_blurred_88541_1920x1080.jpg</thumbnail>
+</regex><thumbnail>https://4.bp.blogspot.com/-UDcBF0Rmzt4/V0r1Z2wiY6I/AAAAAAAAAC8/PSPBKn4-__ofUAjrRfkGRutMvWWLKCunACLcB/s1600/icon.jpg</thumbnail>
 </item>
 
  
@@ -666,7 +666,7 @@
 <page>http://cricfree.sx/</page>
 <referer></referer>
 <cookieJar></cookieJar>
-</regex><thumbnail>https://wallpaperscraft.com/image/triangle_light_blurred_88541_1920x1080.jpg</thumbnail>
+</regex><thumbnail>https://4.bp.blogspot.com/-UDcBF0Rmzt4/V0r1Z2wiY6I/AAAAAAAAAC8/PSPBKn4-__ofUAjrRfkGRutMvWWLKCunACLcB/s1600/icon.jpg</thumbnail>
 </item>
 
 
@@ -688,7 +688,7 @@
 <page>http://mamahd.com/index.html</page>
 <referer></referer>
 <cookieJar></cookieJar>
-</regex><thumbnail>https://wallpaperscraft.com/image/triangle_light_blurred_88541_1920x1080.jpg</thumbnail>
+</regex><thumbnail>https://4.bp.blogspot.com/-UDcBF0Rmzt4/V0r1Z2wiY6I/AAAAAAAAAC8/PSPBKn4-__ofUAjrRfkGRutMvWWLKCunACLcB/s1600/icon.jpg</thumbnail>
 </item>
 
 
@@ -719,7 +719,7 @@
 ]]></listrepeat>
 <expres>(.*?)/05/16(.*?)CET(.*?):(.*?)/AV(.*?)/</expres>
 <page>http://arenavision.in/agenda</page>
-</regex><thumbnail>https://wallpaperscraft.com/image/triangle_light_blurred_88541_1920x1080.jpg</thumbnail>
+</regex><thumbnail>https://4.bp.blogspot.com/-UDcBF0Rmzt4/V0r1Z2wiY6I/AAAAAAAAAC8/PSPBKn4-__ofUAjrRfkGRutMvWWLKCunACLcB/s1600/icon.jpg</thumbnail>
 </item>
 
 
@@ -742,7 +742,7 @@
 <page>http://www.iguide.to/channels/?sort=2</page>
 <referer></referer>
 <cookieJar></cookieJar>
-</regex><thumbnail>https://wallpaperscraft.com/image/triangle_light_blurred_88541_1920x1080.jpg</thumbnail>
+</regex><thumbnail>https://4.bp.blogspot.com/-UDcBF0Rmzt4/V0r1Z2wiY6I/AAAAAAAAAC8/PSPBKn4-__ofUAjrRfkGRutMvWWLKCunACLcB/s1600/icon.jpg</thumbnail>
 </item>
 
 
@@ -767,7 +767,7 @@
 <expres>entry-title[\w\W\s]{0,7}href='(.*?)'>(.*?)<</expres>
 <page>http://acestreamuhd.blogspot.mx/</page>
 </regex>
-<thumbnail>https://wallpaperscraft.com/image/triangle_light_blurred_88541_1920x1080.jpg</thumbnail>
+<thumbnail>https://4.bp.blogspot.com/-UDcBF0Rmzt4/V0r1Z2wiY6I/AAAAAAAAAC8/PSPBKn4-__ofUAjrRfkGRutMvWWLKCunACLcB/s1600/icon.jpg</thumbnail>
 </item>     			
 			
 			
@@ -786,7 +786,7 @@
 <page>http://super-pomoyka.us.to/trash/ttv-list/ttv.sport.player.m3u</page>
 <agent>Kodi/15.2 (Windows NT 6.1) App_Bitness/32 Version/15.2-Git:20151019-02e7013</agent>
 </regex>
-<thumbnail>https://wallpaperscraft.com/image/triangle_light_blurred_88541_1920x1080.jpg</thumbnail>
+<thumbnail>https://4.bp.blogspot.com/-UDcBF0Rmzt4/V0r1Z2wiY6I/AAAAAAAAAC8/PSPBKn4-__ofUAjrRfkGRutMvWWLKCunACLcB/s1600/icon.jpg</thumbnail>
 </item>		
 			
 			
@@ -803,13 +803,13 @@
 			<expres>this.loadPlayer("(.*?)",</expres>
 			<page>http://elgoles.net/canal-[makelist.param1]</page>
 			</regex>
-			<thumbnail>https://wallpaperscraft.com/image/triangle_light_blurred_88541_1920x1080.jpg</thumbnail>
+			<thumbnail>https://4.bp.blogspot.com/-UDcBF0Rmzt4/V0r1Z2wiY6I/AAAAAAAAAC8/PSPBKn4-__ofUAjrRfkGRutMvWWLKCunACLcB/s1600/icon.jpg</thumbnail>
 ]]></listrepeat>
 <expres>a href="(.*?)">Canal-(.*?)<</expres>
 <page>http://elgoles.net</page>
 <agent>Kodi/15.2 (Windows NT 6.1) App_Bitness/32 Version/15.2-Git:20151019-02e7013</agent>
 </regex>
-<thumbnail>https://wallpaperscraft.com/image/triangle_light_blurred_88541_1920x1080.jpg</thumbnail>
+<thumbnail>https://4.bp.blogspot.com/-UDcBF0Rmzt4/V0r1Z2wiY6I/AAAAAAAAAC8/PSPBKn4-__ofUAjrRfkGRutMvWWLKCunACLcB/s1600/icon.jpg</thumbnail>
 </item>			
 		
 			
@@ -1281,7 +1281,7 @@ def GetLSProData(page_data,Cookie_Jar,m, param=''):
 	<expres>$pyFunction:vipracing.decrypt_vipracing('http://www.streamlive.to/embedplayer_new2.php?channel=64232',False,False,'http://vipracing.info/')</expres>
 	<page></page>
 </regex>
-<thumbnail>https://wallpaperscraft.com/image/triangle_light_blurred_88541_1920x1080.jpg</thumbnail>
+<thumbnail>https://4.bp.blogspot.com/-UDcBF0Rmzt4/V0r1Z2wiY6I/AAAAAAAAAC8/PSPBKn4-__ofUAjrRfkGRutMvWWLKCunACLcB/s1600/icon.jpg</thumbnail>
 </item>
 
 
@@ -1294,7 +1294,7 @@ def GetLSProData(page_data,Cookie_Jar,m, param=''):
 	<expres>$pyFunction:vipracing.decrypt_vipracing('http://www.streamlive.to/embedplayer_new2.php?channel=68875',False,False,'http://vipracing.info/')</expres>
 	<page></page>
 </regex>
-<thumbnail>https://wallpaperscraft.com/image/triangle_light_blurred_88541_1920x1080.jpg</thumbnail>
+<thumbnail>https://4.bp.blogspot.com/-UDcBF0Rmzt4/V0r1Z2wiY6I/AAAAAAAAAC8/PSPBKn4-__ofUAjrRfkGRutMvWWLKCunACLcB/s1600/icon.jpg</thumbnail>
 </item>
 
 
@@ -1306,7 +1306,7 @@ def GetLSProData(page_data,Cookie_Jar,m, param=''):
 	<expres>$pyFunction:vipracing.decrypt_vipracing('http://www.streamlive.to/embedplayer_new2.php?channel=73461',False,False,'http://vipracing.info/')</expres>
 	<page></page>
 </regex>
-<thumbnail>https://wallpaperscraft.com/image/triangle_light_blurred_88541_1920x1080.jpg</thumbnail>
+<thumbnail>https://4.bp.blogspot.com/-UDcBF0Rmzt4/V0r1Z2wiY6I/AAAAAAAAAC8/PSPBKn4-__ofUAjrRfkGRutMvWWLKCunACLcB/s1600/icon.jpg</thumbnail>
 </item>
 <item>
 <title>[COLOR lightblue]WWE Network [/COLOR]  [COLOR gray][I]ilive[/I][/COLOR]</title>
@@ -1316,7 +1316,7 @@ def GetLSProData(page_data,Cookie_Jar,m, param=''):
 	<expres>$pyFunction:vipracing.decrypt_vipracing('http://www.streamlive.to/embedplayer_new2.php?channel=73462',False,False,'http://vipracing.info/')</expres>
 	<page></page>
 </regex>
-<thumbnail>https://wallpaperscraft.com/image/triangle_light_blurred_88541_1920x1080.jpg</thumbnail>
+<thumbnail>https://4.bp.blogspot.com/-UDcBF0Rmzt4/V0r1Z2wiY6I/AAAAAAAAAC8/PSPBKn4-__ofUAjrRfkGRutMvWWLKCunACLcB/s1600/icon.jpg</thumbnail>
 </item>
 
 <item>
@@ -1332,10 +1332,10 @@ def GetLSProData(page_data,Cookie_Jar,m, param=''):
 
 			<item>
 <title>[COLOR lightblue][B]NBA TV [/B] [/COLOR][COLOR gray][I]ilive[/I][/COLOR]</title>
-<link>$doregex[rtmp-code]</link><regex>	<name>rtmp-code</name>	<expres>$pyFunction:vipracing.decrypt_vipracing('http://www.streamlive.to/embedplayer_new2.php?channel=71562',False,False,'http://vipracing.info/')</expres>	<page></page></regex><thumbnail>https://wallpaperscraft.com/image/triangle_light_blurred_88541_1920x1080.jpg</thumbnail></item>
+<link>$doregex[rtmp-code]</link><regex>	<name>rtmp-code</name>	<expres>$pyFunction:vipracing.decrypt_vipracing('http://www.streamlive.to/embedplayer_new2.php?channel=71562',False,False,'http://vipracing.info/')</expres>	<page></page></regex><thumbnail>https://4.bp.blogspot.com/-UDcBF0Rmzt4/V0r1Z2wiY6I/AAAAAAAAAC8/PSPBKn4-__ofUAjrRfkGRutMvWWLKCunACLcB/s1600/icon.jpg</thumbnail></item>
 	<item>
 <title>[COLOR lightblue][B]NBA TV [/B] [/COLOR][COLOR gray][I]ilive[/I][/COLOR]</title>
-<link>$doregex[rtmp-code]</link><regex>	<name>rtmp-code</name>	<expres>$pyFunction:vipracing.decrypt_vipracing('http://www.streamlive.to/embedplayer_new2.php?channel=70506',False,False,'http://vipracing.info/')</expres>	<page></page></regex><thumbnail>https://wallpaperscraft.com/image/triangle_light_blurred_88541_1920x1080.jpg</thumbnail></item>	
+<link>$doregex[rtmp-code]</link><regex>	<name>rtmp-code</name>	<expres>$pyFunction:vipracing.decrypt_vipracing('http://www.streamlive.to/embedplayer_new2.php?channel=70506',False,False,'http://vipracing.info/')</expres>	<page></page></regex><thumbnail>https://4.bp.blogspot.com/-UDcBF0Rmzt4/V0r1Z2wiY6I/AAAAAAAAAC8/PSPBKn4-__ofUAjrRfkGRutMvWWLKCunACLcB/s1600/icon.jpg</thumbnail></item>	
 
 
 
@@ -1343,11 +1343,11 @@ def GetLSProData(page_data,Cookie_Jar,m, param=''):
 
 <item>
 <title>[COLOR lightblue]WWE[/COLOR] [COLOR gray][I]ilive[/I][/COLOR]</title>
-<link>$doregex[rtmp-code]</link><regex>	<name>rtmp-code</name>	<expres>$pyFunction:vipracing.decrypt_vipracing('http://www.streamlive.to/embedplayer_new2.php?channel=73126',False,False,'http://vipracing.info/')</expres>	<page></page></regex><thumbnail>https://wallpaperscraft.com/image/triangle_light_blurred_88541_1920x1080.jpg</thumbnail></item>
+<link>$doregex[rtmp-code]</link><regex>	<name>rtmp-code</name>	<expres>$pyFunction:vipracing.decrypt_vipracing('http://www.streamlive.to/embedplayer_new2.php?channel=73126',False,False,'http://vipracing.info/')</expres>	<page></page></regex><thumbnail>https://4.bp.blogspot.com/-UDcBF0Rmzt4/V0r1Z2wiY6I/AAAAAAAAAC8/PSPBKn4-__ofUAjrRfkGRutMvWWLKCunACLcB/s1600/icon.jpg</thumbnail></item>
 
 <item>
 <title>[COLOR lightblue]WWE 24/7[/COLOR] [COLOR gray][I]ilive[/I][/COLOR]</title>
-<link>$doregex[rtmp-code]</link><regex>	<name>rtmp-code</name>	<expres>$pyFunction:vipracing.decrypt_vipracing('http://www.streamlive.to/embedplayer_new2.php?channel=70407',False,False,'http://vipracing.info/')</expres>	<page></page></regex><thumbnail>https://wallpaperscraft.com/image/triangle_light_blurred_88541_1920x1080.jpg</thumbnail></item>
+<link>$doregex[rtmp-code]</link><regex>	<name>rtmp-code</name>	<expres>$pyFunction:vipracing.decrypt_vipracing('http://www.streamlive.to/embedplayer_new2.php?channel=70407',False,False,'http://vipracing.info/')</expres>	<page></page></regex><thumbnail>https://4.bp.blogspot.com/-UDcBF0Rmzt4/V0r1Z2wiY6I/AAAAAAAAAC8/PSPBKn4-__ofUAjrRfkGRutMvWWLKCunACLcB/s1600/icon.jpg</thumbnail></item>
 
 
 
@@ -1393,7 +1393,7 @@ def GetLSProData(page_data,Cookie_Jar,m, param=''):
 	<expres>$pyFunction:vipracing.decrypt_vipracing('http://www.streamlive.to/embedplayer_new2.php?channel=68713',False,False,'http://vipracing.info/')</expres>
 	<page></page>
 </regex>
-<thumbnail>https://wallpaperscraft.com/image/triangle_light_blurred_88541_1920x1080.jpg</thumbnail>
+<thumbnail>https://4.bp.blogspot.com/-UDcBF0Rmzt4/V0r1Z2wiY6I/AAAAAAAAAC8/PSPBKn4-__ofUAjrRfkGRutMvWWLKCunACLcB/s1600/icon.jpg</thumbnail>
 </item>
 
 <item>
@@ -1404,7 +1404,7 @@ def GetLSProData(page_data,Cookie_Jar,m, param=''):
 	<expres>$pyFunction:vipracing.decrypt_vipracing('http://www.streamlive.to/embedplayer_new2.php?channel=68424',False,False,'http://vipracing.info/')</expres>
 	<page></page>
 </regex>
-<thumbnail>https://wallpaperscraft.com/image/triangle_light_blurred_88541_1920x1080.jpg</thumbnail>
+<thumbnail>https://4.bp.blogspot.com/-UDcBF0Rmzt4/V0r1Z2wiY6I/AAAAAAAAAC8/PSPBKn4-__ofUAjrRfkGRutMvWWLKCunACLcB/s1600/icon.jpg</thumbnail>
 </item>
 <item>
 <item>
@@ -1415,7 +1415,7 @@ def GetLSProData(page_data,Cookie_Jar,m, param=''):
 	<expres>$pyFunction:vipracing.decrypt_vipracing('http://www.streamlive.to/embedplayer_new2.php?channel=68714',False,False,'http://vipracing.info/')</expres>
 	<page></page>
 </regex>
-<thumbnail>https://wallpaperscraft.com/image/triangle_light_blurred_88541_1920x1080.jpg</thumbnail>
+<thumbnail>https://4.bp.blogspot.com/-UDcBF0Rmzt4/V0r1Z2wiY6I/AAAAAAAAAC8/PSPBKn4-__ofUAjrRfkGRutMvWWLKCunACLcB/s1600/icon.jpg</thumbnail>
 </item>
 
 <item>
@@ -1426,7 +1426,7 @@ def GetLSProData(page_data,Cookie_Jar,m, param=''):
 	<expres>$pyFunction:vipracing.decrypt_vipracing('http://www.streamlive.to/embedplayer_new2.php?channel=68716',False,False,'http://vipracing.info/')</expres>
 	<page></page>
 </regex>
-<thumbnail>https://wallpaperscraft.com/image/triangle_light_blurred_88541_1920x1080.jpg</thumbnail>
+<thumbnail>https://4.bp.blogspot.com/-UDcBF0Rmzt4/V0r1Z2wiY6I/AAAAAAAAAC8/PSPBKn4-__ofUAjrRfkGRutMvWWLKCunACLcB/s1600/icon.jpg</thumbnail>
 </item>
 
 
@@ -1438,21 +1438,21 @@ def GetLSProData(page_data,Cookie_Jar,m, param=''):
 	<expres>$pyFunction:vipracing.decrypt_vipracing('http://www.streamlive.to/embedplayer_new2.php?channel=68718',False,False,'http://vipracing.info/')</expres>
 	<page></page>
 </regex>
-<thumbnail>https://wallpaperscraft.com/image/triangle_light_blurred_88541_1920x1080.jpg</thumbnail>
+<thumbnail>https://4.bp.blogspot.com/-UDcBF0Rmzt4/V0r1Z2wiY6I/AAAAAAAAAC8/PSPBKn4-__ofUAjrRfkGRutMvWWLKCunACLcB/s1600/icon.jpg</thumbnail>
 </item>
 
 
 <item>
 <title>[COLOR lightblue]SkySports 1 UK [/COLOR] [COLOR gray][I]sstream[/I][/COLOR]</title>
-<link>http://cdn.sstream.pw/live/tvb130/chunklist.m3u8|User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0&amp;Accept-Encoding=gzip,deflate&amp;DNT=1&amp;Referer=http://www.playerapp1.pw/&amp;Connection=keep-alive&amp;Icy-Metadata=0</link><thumbnail>https://wallpaperscraft.com/image/triangle_light_blurred_88541_1920x1080.jpg</thumbnail></item>
+<link>http://cdn.sstream.pw/live/tvb130/chunklist.m3u8|User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0&amp;Accept-Encoding=gzip,deflate&amp;DNT=1&amp;Referer=http://www.playerapp1.pw/&amp;Connection=keep-alive&amp;Icy-Metadata=0</link><thumbnail>https://4.bp.blogspot.com/-UDcBF0Rmzt4/V0r1Z2wiY6I/AAAAAAAAAC8/PSPBKn4-__ofUAjrRfkGRutMvWWLKCunACLcB/s1600/icon.jpg</thumbnail></item>
 
 <item>
 <title>[COLOR lightblue]SkySports 2 UK [/COLOR] [COLOR gray][I]sstream[/I][/COLOR]<title>
-<link>http://cdn.sstream.pw/live/tvb131/chunklist.m3u8|User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0&amp;Accept-Encoding=gzip,deflate&amp;DNT=1&amp;Referer=http://www.playerapp1.pw/&amp;Connection=keep-alive&amp;Icy-Metadata=0</link><thumbnail>https://wallpaperscraft.com/image/triangle_light_blurred_88541_1920x1080.jpg</thumbnail></item>
+<link>http://cdn.sstream.pw/live/tvb131/chunklist.m3u8|User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0&amp;Accept-Encoding=gzip,deflate&amp;DNT=1&amp;Referer=http://www.playerapp1.pw/&amp;Connection=keep-alive&amp;Icy-Metadata=0</link><thumbnail>https://4.bp.blogspot.com/-UDcBF0Rmzt4/V0r1Z2wiY6I/AAAAAAAAAC8/PSPBKn4-__ofUAjrRfkGRutMvWWLKCunACLcB/s1600/icon.jpg</thumbnail></item>
 
 <item>
 <title>[COLOR lightblue]SkySports 3 UK[/COLOR] [COLOR gray][I]sstream[/I][/COLOR]</title>
-<link>http://cdn.sstream.pw/live/tvb132/chunklist.m3u8|User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0&amp;Accept-Encoding=gzip,deflate&amp;DNT=1&amp;Referer=http://www.playerapp1.pw/&amp;Connection=keep-alive&amp;Icy-Metadata=0</link><thumbnail>https://wallpaperscraft.com/image/triangle_light_blurred_88541_1920x1080.jpg</thumbnail></item>
+<link>http://cdn.sstream.pw/live/tvb132/chunklist.m3u8|User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0&amp;Accept-Encoding=gzip,deflate&amp;DNT=1&amp;Referer=http://www.playerapp1.pw/&amp;Connection=keep-alive&amp;Icy-Metadata=0</link><thumbnail>https://4.bp.blogspot.com/-UDcBF0Rmzt4/V0r1Z2wiY6I/AAAAAAAAAC8/PSPBKn4-__ofUAjrRfkGRutMvWWLKCunACLcB/s1600/icon.jpg</thumbnail></item>
 
  
 
@@ -1520,23 +1520,23 @@ def GetLSProData(page_data,Cookie_Jar,m, param=''):
 	
 <item>
 <title>[COLOR lightblue]Sky Sport 1[/COLOR] [COLOR gray][I]ilive[/I][/COLOR]</title>
-<link>$doregex[rtmp-code]</link><regex>	<name>rtmp-code</name>	<expres>$pyFunction:vipracing.decrypt_vipracing('http://www.streamlive.to/embedplayer_new2.php?channel=72742',False,False,'http://vipracing.info/')</expres>	<page></page></regex><thumbnail>https://wallpaperscraft.com/image/triangle_light_blurred_88541_1920x1080.jpg</thumbnail></item>		
+<link>$doregex[rtmp-code]</link><regex>	<name>rtmp-code</name>	<expres>$pyFunction:vipracing.decrypt_vipracing('http://www.streamlive.to/embedplayer_new2.php?channel=72742',False,False,'http://vipracing.info/')</expres>	<page></page></regex><thumbnail>https://4.bp.blogspot.com/-UDcBF0Rmzt4/V0r1Z2wiY6I/AAAAAAAAAC8/PSPBKn4-__ofUAjrRfkGRutMvWWLKCunACLcB/s1600/icon.jpg</thumbnail></item>		
 		
 <item>
 <title>[COLOR lightblue]Sky Sport 2 [/COLOR][COLOR gray][I]ilive[/I][/COLOR]</title>
-<link>$doregex[rtmp-code]</link><regex>	<name>rtmp-code</name>	<expres>$pyFunction:vipracing.decrypt_vipracing('http://www.streamlive.to/embedplayer_new2.php?channel=72743',False,False,'http://vipracing.info/')</expres>	<page></page></regex><thumbnail>https://wallpaperscraft.com/image/triangle_light_blurred_88541_1920x1080.jpg</thumbnail></item>	
+<link>$doregex[rtmp-code]</link><regex>	<name>rtmp-code</name>	<expres>$pyFunction:vipracing.decrypt_vipracing('http://www.streamlive.to/embedplayer_new2.php?channel=72743',False,False,'http://vipracing.info/')</expres>	<page></page></regex><thumbnail>https://4.bp.blogspot.com/-UDcBF0Rmzt4/V0r1Z2wiY6I/AAAAAAAAAC8/PSPBKn4-__ofUAjrRfkGRutMvWWLKCunACLcB/s1600/icon.jpg</thumbnail></item>	
 	
 <item>
 <title>[COLOR lightblue]Sky Sport 3[/COLOR][COLOR gray][I]ilive[/I][/COLOR]</title>
-<link>$doregex[rtmp-code]</link><regex>	<name>rtmp-code</name>	<expres>$pyFunction:vipracing.decrypt_vipracing('http://www.streamlive.to/embedplayer_new2.php?channel=72744',False,False,'http://vipracing.info/')</expres>	<page></page></regex><thumbnail>https://wallpaperscraft.com/image/triangle_light_blurred_88541_1920x1080.jpg</thumbnail></item>	
+<link>$doregex[rtmp-code]</link><regex>	<name>rtmp-code</name>	<expres>$pyFunction:vipracing.decrypt_vipracing('http://www.streamlive.to/embedplayer_new2.php?channel=72744',False,False,'http://vipracing.info/')</expres>	<page></page></regex><thumbnail>https://4.bp.blogspot.com/-UDcBF0Rmzt4/V0r1Z2wiY6I/AAAAAAAAAC8/PSPBKn4-__ofUAjrRfkGRutMvWWLKCunACLcB/s1600/icon.jpg</thumbnail></item>	
 		
 <item>
 <title>[COLOR lightblue]Sky Sport 4 [/COLOR][COLOR gray][I]ilive[/I][/COLOR]</title>
-<link>$doregex[rtmp-code]</link><regex>	<name>rtmp-code</name>	<expres>$pyFunction:vipracing.decrypt_vipracing('http://www.streamlive.to/embedplayer_new2.php?channel=72745',False,False,'http://vipracing.info/')</expres>	<page></page></regex><thumbnail>https://wallpaperscraft.com/image/triangle_light_blurred_88541_1920x1080.jpg</thumbnail></item>	
+<link>$doregex[rtmp-code]</link><regex>	<name>rtmp-code</name>	<expres>$pyFunction:vipracing.decrypt_vipracing('http://www.streamlive.to/embedplayer_new2.php?channel=72745',False,False,'http://vipracing.info/')</expres>	<page></page></regex><thumbnail>https://4.bp.blogspot.com/-UDcBF0Rmzt4/V0r1Z2wiY6I/AAAAAAAAAC8/PSPBKn4-__ofUAjrRfkGRutMvWWLKCunACLcB/s1600/icon.jpg</thumbnail></item>	
 			
 <item>
 <title>[COLOR lightblue]Sky Sport 5 [/COLOR][COLOR gray][I]ilive[/I][/COLOR] </title>
-<link>$doregex[rtmp-code]</link><regex>	<name>rtmp-code</name>	<expres>$pyFunction:vipracing.decrypt_vipracing('http://www.streamlive.to/embedplayer_new2.php?channel=72746',False,False,'http://vipracing.info/')</expres>	<page></page></regex><thumbnail>https://wallpaperscraft.com/image/triangle_light_blurred_88541_1920x1080.jpg</thumbnail></item>	
+<link>$doregex[rtmp-code]</link><regex>	<name>rtmp-code</name>	<expres>$pyFunction:vipracing.decrypt_vipracing('http://www.streamlive.to/embedplayer_new2.php?channel=72746',False,False,'http://vipracing.info/')</expres>	<page></page></regex><thumbnail>https://4.bp.blogspot.com/-UDcBF0Rmzt4/V0r1Z2wiY6I/AAAAAAAAAC8/PSPBKn4-__ofUAjrRfkGRutMvWWLKCunACLcB/s1600/icon.jpg</thumbnail></item>	
 
 		
 <item>
@@ -1556,22 +1556,22 @@ def GetLSProData(page_data,Cookie_Jar,m, param=''):
 
 
 <item><title>[COLOR lightblue]Sky Sports 1 [/COLOR]   [COLOR lightblue]HD[/COLOR]</title>
-<link>http://149.202.207.8:8080/sk1/sallu/index.m3u8</link><thumbnail>https://wallpaperscraft.com/image/triangle_light_blurred_88541_1920x1080.jpg</thumbnail></item>	
+<link>http://149.202.207.8:8080/sk1/sallu/index.m3u8</link><thumbnail>https://4.bp.blogspot.com/-UDcBF0Rmzt4/V0r1Z2wiY6I/AAAAAAAAAC8/PSPBKn4-__ofUAjrRfkGRutMvWWLKCunACLcB/s1600/icon.jpg</thumbnail></item>	
 
 <item><title>[COLOR lightblue]Sky Sports 2 [/COLOR]   [COLOR lightblue]HD[/COLOR]</title>
-<link>http://149.202.207.8:8080/sk2/sallu/index.m3u8</link><thumbnail>https://wallpaperscraft.com/image/triangle_light_blurred_88541_1920x1080.jpg</thumbnail></item>	
+<link>http://149.202.207.8:8080/sk2/sallu/index.m3u8</link><thumbnail>https://4.bp.blogspot.com/-UDcBF0Rmzt4/V0r1Z2wiY6I/AAAAAAAAAC8/PSPBKn4-__ofUAjrRfkGRutMvWWLKCunACLcB/s1600/icon.jpg</thumbnail></item>	
 
 <item><title>[COLOR lightblue]Sky Sports 3 [/COLOR]   [COLOR lightblue]HD[/COLOR]</title>
-<link>http://149.202.207.8:8080/sk3/sallu/index.m3u8</link><thumbnail>https://wallpaperscraft.com/image/triangle_light_blurred_88541_1920x1080.jpg</thumbnail></item>	
+<link>http://149.202.207.8:8080/sk3/sallu/index.m3u8</link><thumbnail>https://4.bp.blogspot.com/-UDcBF0Rmzt4/V0r1Z2wiY6I/AAAAAAAAAC8/PSPBKn4-__ofUAjrRfkGRutMvWWLKCunACLcB/s1600/icon.jpg</thumbnail></item>	
 
 <item><title>[COLOR lightblue]Sky Sports 4 [/COLOR]   [COLOR lightblue]HD[/COLOR]</title>
-<link>http://149.202.207.8:8080/sk4/sallu/index.m3u8</link><thumbnail>https://wallpaperscraft.com/image/triangle_light_blurred_88541_1920x1080.jpg</thumbnail></item>	
+<link>http://149.202.207.8:8080/sk4/sallu/index.m3u8</link><thumbnail>https://4.bp.blogspot.com/-UDcBF0Rmzt4/V0r1Z2wiY6I/AAAAAAAAAC8/PSPBKn4-__ofUAjrRfkGRutMvWWLKCunACLcB/s1600/icon.jpg</thumbnail></item>	
 
 <item><title>[COLOR lightblue]Sky Sports 5 [/COLOR]   [COLOR lightblue]HD[/COLOR]</title>
-<link>http://149.202.207.8:8080/sk5/sallu/index.m3u8</link><thumbnail>https://wallpaperscraft.com/image/triangle_light_blurred_88541_1920x1080.jpg</thumbnail></item>	
+<link>http://149.202.207.8:8080/sk5/sallu/index.m3u8</link><thumbnail>https://4.bp.blogspot.com/-UDcBF0Rmzt4/V0r1Z2wiY6I/AAAAAAAAAC8/PSPBKn4-__ofUAjrRfkGRutMvWWLKCunACLcB/s1600/icon.jpg</thumbnail></item>	
 
 <item><title>[COLOR lightblue]Sky Sports F1 [/COLOR]   [COLOR lightblue]HD[/COLOR]</title>
-<link>http://149.202.207.8:8080/skf1/sallu/index.m3u8</link><thumbnail>https://wallpaperscraft.com/image/triangle_light_blurred_88541_1920x1080.jpg</thumbnail></item>	
+<link>http://149.202.207.8:8080/skf1/sallu/index.m3u8</link><thumbnail>https://4.bp.blogspot.com/-UDcBF0Rmzt4/V0r1Z2wiY6I/AAAAAAAAAC8/PSPBKn4-__ofUAjrRfkGRutMvWWLKCunACLcB/s1600/icon.jpg</thumbnail></item>	
 
 
 
@@ -1590,11 +1590,11 @@ def GetLSProData(page_data,Cookie_Jar,m, param=''):
  
 <item>
 <title>[COLOR lightblue]Bein Sports MAX [/COLOR][COLOR gray][I]sstream[/I][/COLOR]</title>
-<link>http://cdn.sstream.pw/live/tvb142/chunklist.m3u8|User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0&amp;Accept-Encoding=gzip,deflate&amp;DNT=1&amp;Referer=http://www.playerapp1.pw/&amp;Connection=keep-alive&amp;Icy-Metadata=0</link><thumbnail>https://wallpaperscraft.com/image/triangle_light_blurred_88541_1920x1080.jpg</thumbnail></item>
+<link>http://cdn.sstream.pw/live/tvb142/chunklist.m3u8|User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0&amp;Accept-Encoding=gzip,deflate&amp;DNT=1&amp;Referer=http://www.playerapp1.pw/&amp;Connection=keep-alive&amp;Icy-Metadata=0</link><thumbnail>https://4.bp.blogspot.com/-UDcBF0Rmzt4/V0r1Z2wiY6I/AAAAAAAAAC8/PSPBKn4-__ofUAjrRfkGRutMvWWLKCunACLcB/s1600/icon.jpg</thumbnail></item>
 
 <item>
 <title>[COLOR lightblue]Bein Sports MAX 3[/COLOR][COLOR gray][I]sstream[/I][/COLOR]</title>
-<link>http://cdn.sstream.pw/live/tvb142/chunklist.m3u8|User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0&amp;Accept-Encoding=gzip,deflate&amp;DNT=1&amp;Referer=http://www.playerapp1.pw/&amp;Connection=keep-alive&amp;Icy-Metadata=0</link><thumbnail>https://wallpaperscraft.com/image/triangle_light_blurred_88541_1920x1080.jpg</thumbnail></item>
+<link>http://cdn.sstream.pw/live/tvb142/chunklist.m3u8|User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0&amp;Accept-Encoding=gzip,deflate&amp;DNT=1&amp;Referer=http://www.playerapp1.pw/&amp;Connection=keep-alive&amp;Icy-Metadata=0</link><thumbnail>https://4.bp.blogspot.com/-UDcBF0Rmzt4/V0r1Z2wiY6I/AAAAAAAAAC8/PSPBKn4-__ofUAjrRfkGRutMvWWLKCunACLcB/s1600/icon.jpg</thumbnail></item>
 
 
 
@@ -1615,13 +1615,13 @@ def GetLSProData(page_data,Cookie_Jar,m, param=''):
 
 <item>
 <title>[COLOR lightblue]BT Sports 1 [/COLOR] [COLOR gray][I]sstream[/I][/COLOR]</title>
-<link>http://cdn.sstream.pw/live/tvb136/chunklist.m3u8|User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0&amp;Accept-Encoding=gzip,deflate&amp;DNT=1&amp;Referer=http://www.playerapp1.pw/&amp;Connection=keep-alive&amp;Icy-Metadata=0</link><thumbnail>https://wallpaperscraft.com/image/triangle_light_blurred_88541_1920x1080.jpg</thumbnail></item>
+<link>http://cdn.sstream.pw/live/tvb136/chunklist.m3u8|User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0&amp;Accept-Encoding=gzip,deflate&amp;DNT=1&amp;Referer=http://www.playerapp1.pw/&amp;Connection=keep-alive&amp;Icy-Metadata=0</link><thumbnail>https://4.bp.blogspot.com/-UDcBF0Rmzt4/V0r1Z2wiY6I/AAAAAAAAAC8/PSPBKn4-__ofUAjrRfkGRutMvWWLKCunACLcB/s1600/icon.jpg</thumbnail></item>
 <item>
 <title>[COLOR lightblue]BT Sports 2[/COLOR][COLOR gray][I]sstream[/I][/COLOR]</title>
-<link>http://cdn.sstream.pw/live/tvb137/chunklist.m3u8|User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0&amp;Accept-Encoding=gzip,deflate&amp;DNT=1&amp;Referer=http://www.playerapp1.pw/&amp;Connection=keep-alive&amp;Icy-Metadata=0</link><thumbnail>https://wallpaperscraft.com/image/triangle_light_blurred_88541_1920x1080.jpg</thumbnail></item>
+<link>http://cdn.sstream.pw/live/tvb137/chunklist.m3u8|User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0&amp;Accept-Encoding=gzip,deflate&amp;DNT=1&amp;Referer=http://www.playerapp1.pw/&amp;Connection=keep-alive&amp;Icy-Metadata=0</link><thumbnail>https://4.bp.blogspot.com/-UDcBF0Rmzt4/V0r1Z2wiY6I/AAAAAAAAAC8/PSPBKn4-__ofUAjrRfkGRutMvWWLKCunACLcB/s1600/icon.jpg</thumbnail></item>
 <item>
 <title>[COLOR lightblue]BT Sports Europe[/COLOR] [COLOR gray][I]sstream[/I][/COLOR]</title>
-<link>http://cdn.sstream.pw/live/tvb138/chunklist.m3u8|User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0&amp;Accept-Encoding=gzip,deflate&amp;DNT=1&amp;Referer=http://www.playerapp1.pw/&amp;Connection=keep-alive&amp;Icy-Metadata=0</link><thumbnail>https://wallpaperscraft.com/image/triangle_light_blurred_88541_1920x1080.jpg</thumbnail></item>
+<link>http://cdn.sstream.pw/live/tvb138/chunklist.m3u8|User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0&amp;Accept-Encoding=gzip,deflate&amp;DNT=1&amp;Referer=http://www.playerapp1.pw/&amp;Connection=keep-alive&amp;Icy-Metadata=0</link><thumbnail>https://4.bp.blogspot.com/-UDcBF0Rmzt4/V0r1Z2wiY6I/AAAAAAAAAC8/PSPBKn4-__ofUAjrRfkGRutMvWWLKCunACLcB/s1600/icon.jpg</thumbnail></item>
 
  
 
@@ -1635,7 +1635,7 @@ def GetLSProData(page_data,Cookie_Jar,m, param=''):
 	<expres>$pyFunction:vipracing.decrypt_vipracing('http://www.streamlive.to/embedplayer_new2.php?channel=72736',False,False,'http://vipracing.info/')</expres>
 	<page></page>
 </regex>
-<thumbnail>https://wallpaperscraft.com/image/triangle_light_blurred_88541_1920x1080.jpg</thumbnail>
+<thumbnail>https://4.bp.blogspot.com/-UDcBF0Rmzt4/V0r1Z2wiY6I/AAAAAAAAAC8/PSPBKn4-__ofUAjrRfkGRutMvWWLKCunACLcB/s1600/icon.jpg</thumbnail>
 </item>
 
 <item>
@@ -1691,7 +1691,7 @@ def GetLSProData(page_data,Cookie_Jar,m, param=''):
 	<expres>$pyFunction:vipracing.decrypt_vipracing('http://www.streamlive.to/embedplayer_new2.php?channel=72746',False,False,'http://vipracing.info/')</expres>
 	<page></page>
 </regex>
-<thumbnail>https://wallpaperscraft.com/image/triangle_light_blurred_88541_1920x1080.jpg</thumbnail>
+<thumbnail>https://4.bp.blogspot.com/-UDcBF0Rmzt4/V0r1Z2wiY6I/AAAAAAAAAC8/PSPBKn4-__ofUAjrRfkGRutMvWWLKCunACLcB/s1600/icon.jpg</thumbnail>
 </item>		
 			
 
@@ -1764,12 +1764,12 @@ def GetLSProData(page_data,Cookie_Jar,m, param=''):
 	
 <item>
 <title>[COLOR lightblue]Bein Sport France 2 [/COLOR][COLOR gray][I]ilive[/I][/COLOR]</title>
-<link>$doregex[rtmp-code]</link><regex>	<name>rtmp-code</name>	<expres>$pyFunction:vipracing.decrypt_vipracing('http://www.streamlive.to/embedplayer_new2.php?channel=72732',False,False,'http://vipracing.info/')</expres>	<page></page></regex><thumbnail>https://wallpaperscraft.com/image/triangle_light_blurred_88541_1920x1080.jpg</thumbnail></item>	
+<link>$doregex[rtmp-code]</link><regex>	<name>rtmp-code</name>	<expres>$pyFunction:vipracing.decrypt_vipracing('http://www.streamlive.to/embedplayer_new2.php?channel=72732',False,False,'http://vipracing.info/')</expres>	<page></page></regex><thumbnail>https://4.bp.blogspot.com/-UDcBF0Rmzt4/V0r1Z2wiY6I/AAAAAAAAAC8/PSPBKn4-__ofUAjrRfkGRutMvWWLKCunACLcB/s1600/icon.jpg</thumbnail></item>	
 				
 	
 <item>
 <title>[COLOR lightblue]Bein Sport France 3 [/COLOR][COLOR gray][I]ilive[/I][/COLOR]</title>
-<link>$doregex[rtmp-code]</link><regex>	<name>rtmp-code</name>	<expres>$pyFunction:vipracing.decrypt_vipracing('http://www.streamlive.to/embedplayer_new2.php?channel=72733',False,False,'http://vipracing.info/')</expres>	<page></page></regex><thumbnail>https://wallpaperscraft.com/image/triangle_light_blurred_88541_1920x1080.jpg</thumbnail></item>			
+<link>$doregex[rtmp-code]</link><regex>	<name>rtmp-code</name>	<expres>$pyFunction:vipracing.decrypt_vipracing('http://www.streamlive.to/embedplayer_new2.php?channel=72733',False,False,'http://vipracing.info/')</expres>	<page></page></regex><thumbnail>https://4.bp.blogspot.com/-UDcBF0Rmzt4/V0r1Z2wiY6I/AAAAAAAAAC8/PSPBKn4-__ofUAjrRfkGRutMvWWLKCunACLcB/s1600/icon.jpg</thumbnail></item>			
 
 	
 	
@@ -1781,23 +1781,23 @@ def GetLSProData(page_data,Cookie_Jar,m, param=''):
 	
 <item>
 <title>[COLOR lightblue]Bein Sports Fr[/COLOR][COLOR gray][I]sstream[/I][/COLOR]</title>
-<link>http://cdn.sstream.pw/live/tvb122/chunklist.m3u8|User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0&amp;Accept-Encoding=gzip,deflate&amp;DNT=1&amp;Referer=http://www.playerapp1.pw/&amp;Connection=keep-alive&amp;Icy-Metadata=0</link><thumbnail>https://wallpaperscraft.com/image/triangle_light_blurred_88541_1920x1080.jpg</thumbnail></item>
+<link>http://cdn.sstream.pw/live/tvb122/chunklist.m3u8|User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0&amp;Accept-Encoding=gzip,deflate&amp;DNT=1&amp;Referer=http://www.playerapp1.pw/&amp;Connection=keep-alive&amp;Icy-Metadata=0</link><thumbnail>https://4.bp.blogspot.com/-UDcBF0Rmzt4/V0r1Z2wiY6I/AAAAAAAAAC8/PSPBKn4-__ofUAjrRfkGRutMvWWLKCunACLcB/s1600/icon.jpg</thumbnail></item>
 <item>
 <title>[COLOR lightblue]Bein Sports 2HD Fr [/COLOR][COLOR gray][I]sstream[/I][/COLOR]</title>
-<link>http://cdn.sstream.pw/live/tvb123/chunklist.m3u8|User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0&amp;Accept-Encoding=gzip,deflate&amp;DNT=1&amp;Referer=http://www.playerapp1.pw/&amp;Connection=keep-alive&amp;Icy-Metadata=0</link><thumbnail>https://wallpaperscraft.com/image/triangle_light_blurred_88541_1920x1080.jpg</thumbnail></item>
+<link>http://cdn.sstream.pw/live/tvb123/chunklist.m3u8|User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0&amp;Accept-Encoding=gzip,deflate&amp;DNT=1&amp;Referer=http://www.playerapp1.pw/&amp;Connection=keep-alive&amp;Icy-Metadata=0</link><thumbnail>https://4.bp.blogspot.com/-UDcBF0Rmzt4/V0r1Z2wiY6I/AAAAAAAAAC8/PSPBKn4-__ofUAjrRfkGRutMvWWLKCunACLcB/s1600/icon.jpg</thumbnail></item>
 <item>
 <title>[COLOR lightblue]Bein Sports 3HD Fr [/COLOR][COLOR gray][I]sstream[/I][/COLOR]</title>
-<link>http://cdn.sstream.pw/live/tvb124/chunklist.m3u8|User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0&amp;Accept-Encoding=gzip,deflate&amp;DNT=1&amp;Referer=http://www.playerapp1.pw/&amp;Connection=keep-alive&amp;Icy-Metadata=0</link><thumbnail>https://wallpaperscraft.com/image/triangle_light_blurred_88541_1920x1080.jpg</thumbnail></item>
+<link>http://cdn.sstream.pw/live/tvb124/chunklist.m3u8|User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0&amp;Accept-Encoding=gzip,deflate&amp;DNT=1&amp;Referer=http://www.playerapp1.pw/&amp;Connection=keep-alive&amp;Icy-Metadata=0</link><thumbnail>https://4.bp.blogspot.com/-UDcBF0Rmzt4/V0r1Z2wiY6I/AAAAAAAAAC8/PSPBKn4-__ofUAjrRfkGRutMvWWLKCunACLcB/s1600/icon.jpg</thumbnail></item>
 <item>
 <title>[COLOR lightblue]Canal+ Sports Fr [/COLOR][COLOR gray][I]sstream[/I][/COLOR]</title>
-<link>http://cdn.sstream.pw/live/tvb125/chunklist.m3u8|User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0&amp;Accept-Encoding=gzip,deflate&amp;DNT=1&amp;Referer=http://www.playerapp1.pw/&amp;Connection=keep-alive&amp;Icy-Metadata=0</link><thumbnail>https://wallpaperscraft.com/image/triangle_light_blurred_88541_1920x1080.jpg</thumbnail></item>
+<link>http://cdn.sstream.pw/live/tvb125/chunklist.m3u8|User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0&amp;Accept-Encoding=gzip,deflate&amp;DNT=1&amp;Referer=http://www.playerapp1.pw/&amp;Connection=keep-alive&amp;Icy-Metadata=0</link><thumbnail>https://4.bp.blogspot.com/-UDcBF0Rmzt4/V0r1Z2wiY6I/AAAAAAAAAC8/PSPBKn4-__ofUAjrRfkGRutMvWWLKCunACLcB/s1600/icon.jpg</thumbnail></item>
 <item>
 <title>[COLOR lightblue]Canal + Fr [/COLOR][COLOR gray][I]sstream[/I][/COLOR]</title>
-<link>http://cdn.sstream.pw/live/tvb126/chunklist.m3u8|User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0&amp;Accept-Encoding=gzip,deflate&amp;DNT=1&amp;Referer=http://www.playerapp1.pw/&amp;Connection=keep-alive&amp;Icy-Metadata=0</link><thumbnail>https://wallpaperscraft.com/image/triangle_light_blurred_88541_1920x1080.jpg</thumbnail></item>
+<link>http://cdn.sstream.pw/live/tvb126/chunklist.m3u8|User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0&amp;Accept-Encoding=gzip,deflate&amp;DNT=1&amp;Referer=http://www.playerapp1.pw/&amp;Connection=keep-alive&amp;Icy-Metadata=0</link><thumbnail>https://4.bp.blogspot.com/-UDcBF0Rmzt4/V0r1Z2wiY6I/AAAAAAAAAC8/PSPBKn4-__ofUAjrRfkGRutMvWWLKCunACLcB/s1600/icon.jpg</thumbnail></item>
 
 <item>
 <title>[COLOR lightblue]SkySports HD2 Germany [/COLOR] [COLOR gray][I]sstream[/I][/COLOR]</title>
-<link>http://cdn.sstream.pw/live/tvb129/chunklist.m3u8|Referer=$doregex[get-pageUrl]&amp;User-Agent=Mozilla/5.0 (X11 Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.108 Safari/537.36&amp;Referer=http://www.dinostream.pw/jwplayer6/jwplayer.flash.swf')</expres>    <page></page></regex><thumbnail>https://wallpaperscraft.com/image/triangle_light_blurred_88541_1920x1080.jpg</thumbnail></item>
+<link>http://cdn.sstream.pw/live/tvb129/chunklist.m3u8|Referer=$doregex[get-pageUrl]&amp;User-Agent=Mozilla/5.0 (X11 Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.108 Safari/537.36&amp;Referer=http://www.dinostream.pw/jwplayer6/jwplayer.flash.swf')</expres>    <page></page></regex><thumbnail>https://4.bp.blogspot.com/-UDcBF0Rmzt4/V0r1Z2wiY6I/AAAAAAAAAC8/PSPBKn4-__ofUAjrRfkGRutMvWWLKCunACLcB/s1600/icon.jpg</thumbnail></item>
 
 
 
@@ -1835,7 +1835,7 @@ def GetLSProData(page_data,Cookie_Jar,m, param=''):
 <page>http://u-stream.me/frameskysport1.html</page>
 <referer>http://u-stream.me</referer>
 </regex>
-<thumbnail>https://wallpaperscraft.com/image/triangle_light_blurred_88541_1920x1080.jpg</thumbnail></item>
+<thumbnail>https://4.bp.blogspot.com/-UDcBF0Rmzt4/V0r1Z2wiY6I/AAAAAAAAAC8/PSPBKn4-__ofUAjrRfkGRutMvWWLKCunACLcB/s1600/icon.jpg</thumbnail></item>
 
 <item>
 <title>[COLOR lightblue]Sky Sport 2[/COLOR] [COLOR gray][I]Ustream[/I][/COLOR]</title>
@@ -1864,7 +1864,7 @@ def GetLSProData(page_data,Cookie_Jar,m, param=''):
 <page>http://u-stream.me/frameskysport2.html</page>
 <referer>http://u-stream.me</referer>
 </regex>
-<thumbnail>https://wallpaperscraft.com/image/triangle_light_blurred_88541_1920x1080.jpg</thumbnail></item>
+<thumbnail>https://4.bp.blogspot.com/-UDcBF0Rmzt4/V0r1Z2wiY6I/AAAAAAAAAC8/PSPBKn4-__ofUAjrRfkGRutMvWWLKCunACLcB/s1600/icon.jpg</thumbnail></item>
 
 <item>
 <title>[COLOR lightblue]Sky Sport 3[/COLOR] [COLOR gray][I]Ustream[/I][/COLOR]</title>
@@ -1893,7 +1893,7 @@ def GetLSProData(page_data,Cookie_Jar,m, param=''):
 <page>http://u-stream.me/frameskysport3.html</page>
 <referer>http://u-stream.me</referer>
 </regex>
-<thumbnail>https://wallpaperscraft.com/image/triangle_light_blurred_88541_1920x1080.jpg</thumbnail></item>
+<thumbnail>https://4.bp.blogspot.com/-UDcBF0Rmzt4/V0r1Z2wiY6I/AAAAAAAAAC8/PSPBKn4-__ofUAjrRfkGRutMvWWLKCunACLcB/s1600/icon.jpg</thumbnail></item>
 
 
 <item>
@@ -1923,7 +1923,7 @@ def GetLSProData(page_data,Cookie_Jar,m, param=''):
 <page>http://u-stream.me/frameskysport4.html</page>
 <referer>http://u-stream.me</referer>
 </regex>
-<thumbnail>https://wallpaperscraft.com/image/triangle_light_blurred_88541_1920x1080.jpg</thumbnail></item>
+<thumbnail>https://4.bp.blogspot.com/-UDcBF0Rmzt4/V0r1Z2wiY6I/AAAAAAAAAC8/PSPBKn4-__ofUAjrRfkGRutMvWWLKCunACLcB/s1600/icon.jpg</thumbnail></item>
 
 
 <item>
@@ -1953,7 +1953,7 @@ def GetLSProData(page_data,Cookie_Jar,m, param=''):
 <page>http://u-stream.me/frameskysport5.html</page>
 <referer>http://u-stream.me</referer>
 </regex>
-<thumbnail>https://wallpaperscraft.com/image/triangle_light_blurred_88541_1920x1080.jpg</thumbnail></item>
+<thumbnail>https://4.bp.blogspot.com/-UDcBF0Rmzt4/V0r1Z2wiY6I/AAAAAAAAAC8/PSPBKn4-__ofUAjrRfkGRutMvWWLKCunACLcB/s1600/icon.jpg</thumbnail></item>
 
 
 
@@ -1986,7 +1986,7 @@ def GetLSProData(page_data,Cookie_Jar,m, param=''):
 <page>http://u-stream.me/frameespnuk.html</page>
 <referer>http://u-stream.me</referer>
 </regex>
-<thumbnail>https://wallpaperscraft.com/image/triangle_light_blurred_88541_1920x1080.jpg</thumbnail></item>
+<thumbnail>https://4.bp.blogspot.com/-UDcBF0Rmzt4/V0r1Z2wiY6I/AAAAAAAAAC8/PSPBKn4-__ofUAjrRfkGRutMvWWLKCunACLcB/s1600/icon.jpg</thumbnail></item>
 
 
 
@@ -2020,7 +2020,7 @@ def GetLSProData(page_data,Cookie_Jar,m, param=''):
 <page>http://u-stream.me/framepremiere.html</page>
 <referer>http://u-stream.me</referer>
 </regex>
-<thumbnail>https://wallpaperscraft.com/image/triangle_light_blurred_88541_1920x1080.jpg</thumbnail></item>
+<thumbnail>https://4.bp.blogspot.com/-UDcBF0Rmzt4/V0r1Z2wiY6I/AAAAAAAAAC8/PSPBKn4-__ofUAjrRfkGRutMvWWLKCunACLcB/s1600/icon.jpg</thumbnail></item>
 
 
 
@@ -2053,7 +2053,7 @@ def GetLSProData(page_data,Cookie_Jar,m, param=''):
 <page>http://u-stream.me/framebt1.html</page>
 <referer>http://u-stream.me</referer>
 </regex>
-<thumbnail>https://wallpaperscraft.com/image/triangle_light_blurred_88541_1920x1080.jpg</thumbnail></item>
+<thumbnail>https://4.bp.blogspot.com/-UDcBF0Rmzt4/V0r1Z2wiY6I/AAAAAAAAAC8/PSPBKn4-__ofUAjrRfkGRutMvWWLKCunACLcB/s1600/icon.jpg</thumbnail></item>
 
 
 
@@ -2086,7 +2086,7 @@ def GetLSProData(page_data,Cookie_Jar,m, param=''):
 <page>http://u-stream.me/framebt2.html</page>
 <referer>http://u-stream.me</referer>
 </regex>
-<thumbnail>https://wallpaperscraft.com/image/triangle_light_blurred_88541_1920x1080.jpg</thumbnail></item>
+<thumbnail>https://4.bp.blogspot.com/-UDcBF0Rmzt4/V0r1Z2wiY6I/AAAAAAAAAC8/PSPBKn4-__ofUAjrRfkGRutMvWWLKCunACLcB/s1600/icon.jpg</thumbnail></item>
 
 
 
@@ -2118,7 +2118,7 @@ def GetLSProData(page_data,Cookie_Jar,m, param=''):
 <page>http://u-stream.me/frameeurosport1uk.html</page>
 <referer>http://u-stream.me</referer>
 </regex>
-<thumbnail>https://wallpaperscraft.com/image/triangle_light_blurred_88541_1920x1080.jpg</thumbnail></item>
+<thumbnail>https://4.bp.blogspot.com/-UDcBF0Rmzt4/V0r1Z2wiY6I/AAAAAAAAAC8/PSPBKn4-__ofUAjrRfkGRutMvWWLKCunACLcB/s1600/icon.jpg</thumbnail></item>
 
 
 -->
@@ -2165,7 +2165,7 @@ def GetLSProData(page_data,Cookie_Jar,m, param=''):
 		<expres>file='(.*?)'</expres>
 		<page>http://ekostreams.co/ch/sportvhd.php?width=600&height=384?width=600&height=384</page>
 	</regex>
-<thumbnail>https://wallpaperscraft.com/image/triangle_light_blurred_88541_1920x1080.jpg</thumbnail></item>
+<thumbnail>https://4.bp.blogspot.com/-UDcBF0Rmzt4/V0r1Z2wiY6I/AAAAAAAAAC8/PSPBKn4-__ofUAjrRfkGRutMvWWLKCunACLcB/s1600/icon.jpg</thumbnail></item>
 
 
 <!--
@@ -2238,7 +2238,7 @@ def GetLSProData(page_data,Cookie_Jar,m, param=''):
 <page>http://miplayer.net/embedplayer.php?id=ibrodtv27</page>
 </regex>
 
-<thumbnail>https://wallpaperscraft.com/image/triangle_light_blurred_88541_1920x1080.jpg</thumbnail>
+<thumbnail>https://4.bp.blogspot.com/-UDcBF0Rmzt4/V0r1Z2wiY6I/AAAAAAAAAC8/PSPBKn4-__ofUAjrRfkGRutMvWWLKCunACLcB/s1600/icon.jpg</thumbnail>
 </item>		
 
 
@@ -2594,114 +2594,114 @@ def GetLSProData(page_data,Cookie_Jar,m, param=''):
 
 <item>
 <title>[COLOR lightblue]Box Nation[/COLOR] [COLOR gray][I]ilive[/I][/COLOR]</title>
-<link>$doregex[rtmp-code]</link><regex>	<name>rtmp-code</name>	<expres>$pyFunction:vipracing.decrypt_vipracing('http://www.streamlive.to/embedplayer_new2.php?channel=72917',False,False,'http://vipracing.info/')</expres>	<page></page></regex><thumbnail>https://wallpaperscraft.com/image/triangle_light_blurred_88541_1920x1080.jpg</thumbnail></item>	
+<link>$doregex[rtmp-code]</link><regex>	<name>rtmp-code</name>	<expres>$pyFunction:vipracing.decrypt_vipracing('http://www.streamlive.to/embedplayer_new2.php?channel=72917',False,False,'http://vipracing.info/')</expres>	<page></page></regex><thumbnail>https://4.bp.blogspot.com/-UDcBF0Rmzt4/V0r1Z2wiY6I/AAAAAAAAAC8/PSPBKn4-__ofUAjrRfkGRutMvWWLKCunACLcB/s1600/icon.jpg</thumbnail></item>	
 
 
 <item>
 <title>[COLOR lightblue]NBC Sport Network [/COLOR] [COLOR gray][I]ilive[/I][/COLOR]</title>
-<link>$doregex[rtmp-code]</link><regex>	<name>rtmp-code</name>	<expres>$pyFunction:vipracing.decrypt_vipracing('http://www.streamlive.to/embedplayer_new2.php?channel=71137',False,False,'http://vipracing.info/')</expres>	<page></page></regex><thumbnail>https://wallpaperscraft.com/image/triangle_light_blurred_88541_1920x1080.jpg</thumbnail></item>		
+<link>$doregex[rtmp-code]</link><regex>	<name>rtmp-code</name>	<expres>$pyFunction:vipracing.decrypt_vipracing('http://www.streamlive.to/embedplayer_new2.php?channel=71137',False,False,'http://vipracing.info/')</expres>	<page></page></regex><thumbnail>https://4.bp.blogspot.com/-UDcBF0Rmzt4/V0r1Z2wiY6I/AAAAAAAAAC8/PSPBKn4-__ofUAjrRfkGRutMvWWLKCunACLcB/s1600/icon.jpg</thumbnail></item>		
 
 
 <item>
 <title>[COLOR lightblue]beIN Sport USA [/COLOR] [COLOR gray][I]ilive[/I][/COLOR]</title>
-<link>$doregex[rtmp-code]</link><regex>	<name>rtmp-code</name>	<expres>$pyFunction:vipracing.decrypt_vipracing('http://www.streamlive.to/embedplayer_new2.php?channel=72208',False,False,'http://vipracing.info/')</expres>	<page></page></regex><thumbnail>https://wallpaperscraft.com/image/triangle_light_blurred_88541_1920x1080.jpg</thumbnail></item>		
+<link>$doregex[rtmp-code]</link><regex>	<name>rtmp-code</name>	<expres>$pyFunction:vipracing.decrypt_vipracing('http://www.streamlive.to/embedplayer_new2.php?channel=72208',False,False,'http://vipracing.info/')</expres>	<page></page></regex><thumbnail>https://4.bp.blogspot.com/-UDcBF0Rmzt4/V0r1Z2wiY6I/AAAAAAAAAC8/PSPBKn4-__ofUAjrRfkGRutMvWWLKCunACLcB/s1600/icon.jpg</thumbnail></item>		
 
 
 <item>
 <title>[COLOR lightblue]Premier Sports [/COLOR] [COLOR gray][I]ilive[/I][/COLOR]</title>
-<link>$doregex[rtmp-code]</link><regex>	<name>rtmp-code</name>	<expres>$pyFunction:vipracing.decrypt_vipracing('http://www.streamlive.to/embedplayer_new2.php?channel=70557',False,False,'http://vipracing.info/')</expres>	<page></page></regex><thumbnail>https://wallpaperscraft.com/image/triangle_light_blurred_88541_1920x1080.jpg</thumbnail></item>		
+<link>$doregex[rtmp-code]</link><regex>	<name>rtmp-code</name>	<expres>$pyFunction:vipracing.decrypt_vipracing('http://www.streamlive.to/embedplayer_new2.php?channel=70557',False,False,'http://vipracing.info/')</expres>	<page></page></regex><thumbnail>https://4.bp.blogspot.com/-UDcBF0Rmzt4/V0r1Z2wiY6I/AAAAAAAAAC8/PSPBKn4-__ofUAjrRfkGRutMvWWLKCunACLcB/s1600/icon.jpg</thumbnail></item>		
 
 
 <item>
 <title>[COLOR lightblue]Sky Sport 1 [/COLOR] [COLOR gray][I]ilive[/I][/COLOR]</title>
-<link>$doregex[rtmp-code]</link><regex>	<name>rtmp-code</name>	<expres>$pyFunction:vipracing.decrypt_vipracing('http://www.streamlive.to/embedplayer_new2.php?channel=72742',False,False,'http://vipracing.info/')</expres>	<page></page></regex><thumbnail>https://wallpaperscraft.com/image/triangle_light_blurred_88541_1920x1080.jpg</thumbnail></item>		
+<link>$doregex[rtmp-code]</link><regex>	<name>rtmp-code</name>	<expres>$pyFunction:vipracing.decrypt_vipracing('http://www.streamlive.to/embedplayer_new2.php?channel=72742',False,False,'http://vipracing.info/')</expres>	<page></page></regex><thumbnail>https://4.bp.blogspot.com/-UDcBF0Rmzt4/V0r1Z2wiY6I/AAAAAAAAAC8/PSPBKn4-__ofUAjrRfkGRutMvWWLKCunACLcB/s1600/icon.jpg</thumbnail></item>		
 
 
 <item>
 <title>[COLOR lightblue]NBA TV [/COLOR] [COLOR gray][I]ilive[/I][/COLOR]</title>
-<link>$doregex[rtmp-code]</link><regex>	<name>rtmp-code</name>	<expres>$pyFunction:vipracing.decrypt_vipracing('http://www.streamlive.to/embedplayer_new2.php?channel=71562',False,False,'http://vipracing.info/')</expres>	<page></page></regex><thumbnail>https://wallpaperscraft.com/image/triangle_light_blurred_88541_1920x1080.jpg</thumbnail></item>		
+<link>$doregex[rtmp-code]</link><regex>	<name>rtmp-code</name>	<expres>$pyFunction:vipracing.decrypt_vipracing('http://www.streamlive.to/embedplayer_new2.php?channel=71562',False,False,'http://vipracing.info/')</expres>	<page></page></regex><thumbnail>https://4.bp.blogspot.com/-UDcBF0Rmzt4/V0r1Z2wiY6I/AAAAAAAAAC8/PSPBKn4-__ofUAjrRfkGRutMvWWLKCunACLcB/s1600/icon.jpg</thumbnail></item>		
 
 
 
 <item>
 <title>[COLOR lightblue]Setenta Sport [/COLOR] [COLOR gray][I]ilive[/I][/COLOR]</title>
-<link>$doregex[rtmp-code]</link><regex>	<name>rtmp-code</name>	<expres>$pyFunction:vipracing.decrypt_vipracing('http://www.streamlive.to/embedplayer_new2.php?channel=72801',False,False,'http://vipracing.info/')</expres>	<page></page></regex><thumbnail>https://wallpaperscraft.com/image/triangle_light_blurred_88541_1920x1080.jpg</thumbnail></item>		
+<link>$doregex[rtmp-code]</link><regex>	<name>rtmp-code</name>	<expres>$pyFunction:vipracing.decrypt_vipracing('http://www.streamlive.to/embedplayer_new2.php?channel=72801',False,False,'http://vipracing.info/')</expres>	<page></page></regex><thumbnail>https://4.bp.blogspot.com/-UDcBF0Rmzt4/V0r1Z2wiY6I/AAAAAAAAAC8/PSPBKn4-__ofUAjrRfkGRutMvWWLKCunACLcB/s1600/icon.jpg</thumbnail></item>		
 
 
 
 <item>
 <title>[COLOR lightblue]ESPN USA [/COLOR] [COLOR gray][I]ilive[/I][/COLOR]</title>
-<link>$doregex[rtmp-code]</link><regex>	<name>rtmp-code</name>	<expres>$pyFunction:vipracing.decrypt_vipracing('http://www.streamlive.to/embedplayer_new2.php?channel=71561',False,False,'http://vipracing.info/')</expres>	<page></page></regex><thumbnail>https://wallpaperscraft.com/image/triangle_light_blurred_88541_1920x1080.jpg</thumbnail></item>	
+<link>$doregex[rtmp-code]</link><regex>	<name>rtmp-code</name>	<expres>$pyFunction:vipracing.decrypt_vipracing('http://www.streamlive.to/embedplayer_new2.php?channel=71561',False,False,'http://vipracing.info/')</expres>	<page></page></regex><thumbnail>https://4.bp.blogspot.com/-UDcBF0Rmzt4/V0r1Z2wiY6I/AAAAAAAAAC8/PSPBKn4-__ofUAjrRfkGRutMvWWLKCunACLcB/s1600/icon.jpg</thumbnail></item>	
 
 
 <item>
 <title>[COLOR lightblue]NFL Network [/COLOR] [COLOR gray][I]ilive[/I][/COLOR]</title>
-<link>$doregex[rtmp-code]</link><regex>	<name>rtmp-code</name>	<expres>$pyFunction:vipracing.decrypt_vipracing('http://www.streamlive.to/embedplayer_new2.php?channel=72886',False,False,'http://vipracing.info/')</expres>	<page></page></regex><thumbnail>https://wallpaperscraft.com/image/triangle_light_blurred_88541_1920x1080.jpg</thumbnail></item>				
+<link>$doregex[rtmp-code]</link><regex>	<name>rtmp-code</name>	<expres>$pyFunction:vipracing.decrypt_vipracing('http://www.streamlive.to/embedplayer_new2.php?channel=72886',False,False,'http://vipracing.info/')</expres>	<page></page></regex><thumbnail>https://4.bp.blogspot.com/-UDcBF0Rmzt4/V0r1Z2wiY6I/AAAAAAAAAC8/PSPBKn4-__ofUAjrRfkGRutMvWWLKCunACLcB/s1600/icon.jpg</thumbnail></item>				
 		
 		
 		
 <item>
 <title>[COLOR lightblue]Sky Sport 5   [/COLOR] [COLOR gray][I]ilive[/I][/COLOR]</title>
-<link>$doregex[rtmp-code]</link><regex>	<name>rtmp-code</name>	<expres>$pyFunction:vipracing.decrypt_vipracing('http://www.streamlive.to/embedplayer_new2.php?channel=72746',False,False,'http://vipracing.info/')</expres>	<page></page></regex><thumbnail>https://wallpaperscraft.com/image/triangle_light_blurred_88541_1920x1080.jpg</thumbnail></item>
+<link>$doregex[rtmp-code]</link><regex>	<name>rtmp-code</name>	<expres>$pyFunction:vipracing.decrypt_vipracing('http://www.streamlive.to/embedplayer_new2.php?channel=72746',False,False,'http://vipracing.info/')</expres>	<page></page></regex><thumbnail>https://4.bp.blogspot.com/-UDcBF0Rmzt4/V0r1Z2wiY6I/AAAAAAAAAC8/PSPBKn4-__ofUAjrRfkGRutMvWWLKCunACLcB/s1600/icon.jpg</thumbnail></item>
 		
 		
 		
 <item>
 <title>[COLOR lightblue]Sky Sport F1 Formula 1   [/COLOR] [COLOR gray][I]ilive[/I][/COLOR]</title>
-<link>$doregex[rtmp-code]</link><regex>	<name>rtmp-code</name>	<expres>$pyFunction:vipracing.decrypt_vipracing('http://www.streamlive.to/embedplayer_new2.php?channel=71583',False,False,'http://vipracing.info/')</expres>	<page></page></regex><thumbnail>https://wallpaperscraft.com/image/triangle_light_blurred_88541_1920x1080.jpg</thumbnail></item>	
+<link>$doregex[rtmp-code]</link><regex>	<name>rtmp-code</name>	<expres>$pyFunction:vipracing.decrypt_vipracing('http://www.streamlive.to/embedplayer_new2.php?channel=71583',False,False,'http://vipracing.info/')</expres>	<page></page></regex><thumbnail>https://4.bp.blogspot.com/-UDcBF0Rmzt4/V0r1Z2wiY6I/AAAAAAAAAC8/PSPBKn4-__ofUAjrRfkGRutMvWWLKCunACLcB/s1600/icon.jpg</thumbnail></item>	
 				
 		
 <item>
 <title>[COLOR lightblue]Box Nation   [/COLOR] [COLOR gray][I]ilive[/I][/COLOR]</title>
-<link>$doregex[rtmp-code]</link><regex>	<name>rtmp-code</name>	<expres>$pyFunction:vipracing.decrypt_vipracing('http://www.streamlive.to/embedplayer_new2.php?channel=72734',False,False,'http://vipracing.info/')</expres>	<page></page></regex><thumbnail>https://wallpaperscraft.com/image/triangle_light_blurred_88541_1920x1080.jpg</thumbnail></item>	
+<link>$doregex[rtmp-code]</link><regex>	<name>rtmp-code</name>	<expres>$pyFunction:vipracing.decrypt_vipracing('http://www.streamlive.to/embedplayer_new2.php?channel=72734',False,False,'http://vipracing.info/')</expres>	<page></page></regex><thumbnail>https://4.bp.blogspot.com/-UDcBF0Rmzt4/V0r1Z2wiY6I/AAAAAAAAAC8/PSPBKn4-__ofUAjrRfkGRutMvWWLKCunACLcB/s1600/icon.jpg</thumbnail></item>	
 				
 		
 <item>
 <title>[COLOR lightblue]BT Sport ESPN   [/COLOR] [COLOR gray][I]ilive[/I][/COLOR]</title>
-<link>$doregex[rtmp-code]</link><regex>	<name>rtmp-code</name>	<expres>$pyFunction:vipracing.decrypt_vipracing('http://www.streamlive.to/embedplayer_new2.php?channel=72462',False,False,'http://vipracing.info/')</expres>	<page></page></regex><thumbnail>https://wallpaperscraft.com/image/triangle_light_blurred_88541_1920x1080.jpg</thumbnail></item>	
+<link>$doregex[rtmp-code]</link><regex>	<name>rtmp-code</name>	<expres>$pyFunction:vipracing.decrypt_vipracing('http://www.streamlive.to/embedplayer_new2.php?channel=72462',False,False,'http://vipracing.info/')</expres>	<page></page></regex><thumbnail>https://4.bp.blogspot.com/-UDcBF0Rmzt4/V0r1Z2wiY6I/AAAAAAAAAC8/PSPBKn4-__ofUAjrRfkGRutMvWWLKCunACLcB/s1600/icon.jpg</thumbnail></item>	
 				
 		
 <item>
 <title>[COLOR lightblue]24x7 WWE Network Live Stream   [/COLOR] [COLOR gray][I]ilive[/I][/COLOR]</title>
-<link>$doregex[rtmp-code]</link><regex>	<name>rtmp-code</name>	<expres>$pyFunction:vipracing.decrypt_vipracing('http://www.streamlive.to/embedplayer_new2.php?channel=70407',False,False,'http://vipracing.info/')</expres>	<page></page></regex><thumbnail>https://wallpaperscraft.com/image/triangle_light_blurred_88541_1920x1080.jpg</thumbnail></item>	
+<link>$doregex[rtmp-code]</link><regex>	<name>rtmp-code</name>	<expres>$pyFunction:vipracing.decrypt_vipracing('http://www.streamlive.to/embedplayer_new2.php?channel=70407',False,False,'http://vipracing.info/')</expres>	<page></page></regex><thumbnail>https://4.bp.blogspot.com/-UDcBF0Rmzt4/V0r1Z2wiY6I/AAAAAAAAAC8/PSPBKn4-__ofUAjrRfkGRutMvWWLKCunACLcB/s1600/icon.jpg</thumbnail></item>	
 				
 		
 <item>
 <title>[COLOR lightblue]Sky Sport 5   [/COLOR] [COLOR gray][I]ilive[/I][/COLOR]</title>
-<link>$doregex[rtmp-code]</link><regex>	<name>rtmp-code</name>	<expres>$pyFunction:vipracing.decrypt_vipracing('http://www.streamlive.to/embedplayer_new2.php?channel=69649',False,False,'http://vipracing.info/')</expres>	<page></page></regex><thumbnail>https://wallpaperscraft.com/image/triangle_light_blurred_88541_1920x1080.jpg</thumbnail></item>	
+<link>$doregex[rtmp-code]</link><regex>	<name>rtmp-code</name>	<expres>$pyFunction:vipracing.decrypt_vipracing('http://www.streamlive.to/embedplayer_new2.php?channel=69649',False,False,'http://vipracing.info/')</expres>	<page></page></regex><thumbnail>https://4.bp.blogspot.com/-UDcBF0Rmzt4/V0r1Z2wiY6I/AAAAAAAAAC8/PSPBKn4-__ofUAjrRfkGRutMvWWLKCunACLcB/s1600/icon.jpg</thumbnail></item>	
 		
 <item>
 <title>[COLOR lightblue]BT Sport 1   [/COLOR] [COLOR gray][I]ilive[/I][/COLOR]</title>
-<link>$doregex[rtmp-code]</link><regex>	<name>rtmp-code</name>	<expres>$pyFunction:vipracing.decrypt_vipracing('http://www.streamlive.to/embedplayer_new2.php?channel=72735',False,False,'http://vipracing.info/')</expres>	<page></page></regex><thumbnail>https://wallpaperscraft.com/image/triangle_light_blurred_88541_1920x1080.jpg</thumbnail></item>	
+<link>$doregex[rtmp-code]</link><regex>	<name>rtmp-code</name>	<expres>$pyFunction:vipracing.decrypt_vipracing('http://www.streamlive.to/embedplayer_new2.php?channel=72735',False,False,'http://vipracing.info/')</expres>	<page></page></regex><thumbnail>https://4.bp.blogspot.com/-UDcBF0Rmzt4/V0r1Z2wiY6I/AAAAAAAAAC8/PSPBKn4-__ofUAjrRfkGRutMvWWLKCunACLcB/s1600/icon.jpg</thumbnail></item>	
 						
 <item>
 <title>[COLOR lightblue]F1  [/COLOR] [COLOR gray][I]ilive[/I][/COLOR]</title>
-<link>$doregex[rtmp-code]</link><regex>	<name>rtmp-code</name>	<expres>$pyFunction:vipracing.decrypt_vipracing('http://www.streamlive.to/embedplayer_new2.php?channel=70422',False,False,'http://vipracing.info/')</expres>	<page></page></regex><thumbnail>https://wallpaperscraft.com/image/triangle_light_blurred_88541_1920x1080.jpg</thumbnail></item>	
+<link>$doregex[rtmp-code]</link><regex>	<name>rtmp-code</name>	<expres>$pyFunction:vipracing.decrypt_vipracing('http://www.streamlive.to/embedplayer_new2.php?channel=70422',False,False,'http://vipracing.info/')</expres>	<page></page></regex><thumbnail>https://4.bp.blogspot.com/-UDcBF0Rmzt4/V0r1Z2wiY6I/AAAAAAAAAC8/PSPBKn4-__ofUAjrRfkGRutMvWWLKCunACLcB/s1600/icon.jpg</thumbnail></item>	
 						
 <item>
 <title>[COLOR lightblue]Sky Sport 4   [/COLOR]</title>
-<link>$doregex[rtmp-code]</link><regex>	<name>rtmp-code</name>	<expres>$pyFunction:vipracing.decrypt_vipracing('http://www.streamlive.to/embedplayer_new2.php?channel=71190',False,False,'http://vipracing.info/')</expres>	<page></page></regex><thumbnail>https://wallpaperscraft.com/image/triangle_light_blurred_88541_1920x1080.jpg</thumbnail></item>
+<link>$doregex[rtmp-code]</link><regex>	<name>rtmp-code</name>	<expres>$pyFunction:vipracing.decrypt_vipracing('http://www.streamlive.to/embedplayer_new2.php?channel=71190',False,False,'http://vipracing.info/')</expres>	<page></page></regex><thumbnail>https://4.bp.blogspot.com/-UDcBF0Rmzt4/V0r1Z2wiY6I/AAAAAAAAAC8/PSPBKn4-__ofUAjrRfkGRutMvWWLKCunACLcB/s1600/icon.jpg</thumbnail></item>
 						
 <item>
 <title>[COLOR lightblue]BT Sport 1   [/COLOR] [COLOR gray][I]ilive[/I][/COLOR]</title>
-<link>$doregex[rtmp-code]</link><regex>	<name>rtmp-code</name>	<expres>$pyFunction:vipracing.decrypt_vipracing('http://www.streamlive.to/embedplayer_new2.php?channel=72457',False,False,'http://vipracing.info/')</expres>	<page></page></regex><thumbnail>https://wallpaperscraft.com/image/triangle_light_blurred_88541_1920x1080.jpg</thumbnail></item>	
+<link>$doregex[rtmp-code]</link><regex>	<name>rtmp-code</name>	<expres>$pyFunction:vipracing.decrypt_vipracing('http://www.streamlive.to/embedplayer_new2.php?channel=72457',False,False,'http://vipracing.info/')</expres>	<page></page></regex><thumbnail>https://4.bp.blogspot.com/-UDcBF0Rmzt4/V0r1Z2wiY6I/AAAAAAAAAC8/PSPBKn4-__ofUAjrRfkGRutMvWWLKCunACLcB/s1600/icon.jpg</thumbnail></item>	
 						
 <item>
 <title>[COLOR lightblue]Golf Channel  [/COLOR] [COLOR gray][I]ilive[/I][/COLOR]</title>
-<link>$doregex[rtmp-code]</link><regex>	<name>rtmp-code</name>	<expres>$pyFunction:vipracing.decrypt_vipracing('http://www.streamlive.to/embedplayer_new2.php?channel=69026',False,False,'http://vipracing.info/')</expres>	<page></page></regex><thumbnail>https://wallpaperscraft.com/image/triangle_light_blurred_88541_1920x1080.jpg</thumbnail></item>	
+<link>$doregex[rtmp-code]</link><regex>	<name>rtmp-code</name>	<expres>$pyFunction:vipracing.decrypt_vipracing('http://www.streamlive.to/embedplayer_new2.php?channel=69026',False,False,'http://vipracing.info/')</expres>	<page></page></regex><thumbnail>https://4.bp.blogspot.com/-UDcBF0Rmzt4/V0r1Z2wiY6I/AAAAAAAAAC8/PSPBKn4-__ofUAjrRfkGRutMvWWLKCunACLcB/s1600/icon.jpg</thumbnail></item>	
 						
 		
 <item>
 <title>[COLOR lightblue]Sky Sport F1   [/COLOR] [COLOR gray][I]ilive[/I][/COLOR]</title>
-<link>$doregex[rtmp-code]</link><regex>	<name>rtmp-code</name>	<expres>$pyFunction:vipracing.decrypt_vipracing('http://www.streamlive.to/embedplayer_new2.php?channel=72747',False,False,'http://vipracing.info/')</expres>	<page></page></regex><thumbnail>https://wallpaperscraft.com/image/triangle_light_blurred_88541_1920x1080.jpg</thumbnail></item>
+<link>$doregex[rtmp-code]</link><regex>	<name>rtmp-code</name>	<expres>$pyFunction:vipracing.decrypt_vipracing('http://www.streamlive.to/embedplayer_new2.php?channel=72747',False,False,'http://vipracing.info/')</expres>	<page></page></regex><thumbnail>https://4.bp.blogspot.com/-UDcBF0Rmzt4/V0r1Z2wiY6I/AAAAAAAAAC8/PSPBKn4-__ofUAjrRfkGRutMvWWLKCunACLcB/s1600/icon.jpg</thumbnail></item>
 						
 		
 <item>
 <title>[COLOR lightblue]NCAA: Football[/COLOR] [COLOR gray][I]ilive[/I][/COLOR]</title>
-<link>$doregex[rtmp-code]</link><regex>	<name>rtmp-code</name>	<expres>$pyFunction:vipracing.decrypt_vipracing('http://www.streamlive.to/embedplayer_new2.php?channel=70077',False,False,'http://vipracing.info/')</expres>	<page></page></regex><thumbnail>https://wallpaperscraft.com/image/triangle_light_blurred_88541_1920x1080.jpg</thumbnail></item>				
+<link>$doregex[rtmp-code]</link><regex>	<name>rtmp-code</name>	<expres>$pyFunction:vipracing.decrypt_vipracing('http://www.streamlive.to/embedplayer_new2.php?channel=70077',False,False,'http://vipracing.info/')</expres>	<page></page></regex><thumbnail>https://4.bp.blogspot.com/-UDcBF0Rmzt4/V0r1Z2wiY6I/AAAAAAAAAC8/PSPBKn4-__ofUAjrRfkGRutMvWWLKCunACLcB/s1600/icon.jpg</thumbnail></item>				
 	<item>
 <title>[COLOR lightblue]ESPN UK   [/COLOR] [COLOR gray][I]ilive[/I][/COLOR]</title>
-<link>$doregex[rtmp-code]</link><regex>	<name>rtmp-code</name>	<expres>$pyFunction:vipracing.decrypt_vipracing('http://www.streamlive.to/embedplayer_new2.php?channel=72886',False,False,'http://vipracing.info/')</expres>	<page></page></regex><thumbnail>https://wallpaperscraft.com/image/triangle_light_blurred_88541_1920x1080.jpg</thumbnail></item>		
+<link>$doregex[rtmp-code]</link><regex>	<name>rtmp-code</name>	<expres>$pyFunction:vipracing.decrypt_vipracing('http://www.streamlive.to/embedplayer_new2.php?channel=72886',False,False,'http://vipracing.info/')</expres>	<page></page></regex><thumbnail>https://4.bp.blogspot.com/-UDcBF0Rmzt4/V0r1Z2wiY6I/AAAAAAAAAC8/PSPBKn4-__ofUAjrRfkGRutMvWWLKCunACLcB/s1600/icon.jpg</thumbnail></item>		
 
 <item>
 <title>[COLOR lightblue]Sky Sport 2   [/COLOR] [COLOR gray][I]ilive[/I][/COLOR]</title>
@@ -3511,7 +3511,7 @@ src="http://veetle.com/index.php/widget/index/856AE2EBF2B063EC68952B9D350C8C38/0
 <page>http://histream.tv/beinsport1.html</page>			
 </regex>
 
-<thumbnail>https://wallpaperscraft.com/image/triangle_light_blurred_88541_1920x1080.jpg</thumbnail></item>	
+<thumbnail>https://4.bp.blogspot.com/-UDcBF0Rmzt4/V0r1Z2wiY6I/AAAAAAAAAC8/PSPBKn4-__ofUAjrRfkGRutMvWWLKCunACLcB/s1600/icon.jpg</thumbnail></item>	
 
 <item>
 <title>[COLOR lightslategray]Bein 2 [/COLOR] </title>
@@ -3527,7 +3527,7 @@ src="http://veetle.com/index.php/widget/index/856AE2EBF2B063EC68952B9D350C8C38/0
 <page>http://histream.tv/beinsport2.html</page>			
 </regex>
 
-<thumbnail>https://wallpaperscraft.com/image/triangle_light_blurred_88541_1920x1080.jpg</thumbnail></item>	
+<thumbnail>https://4.bp.blogspot.com/-UDcBF0Rmzt4/V0r1Z2wiY6I/AAAAAAAAAC8/PSPBKn4-__ofUAjrRfkGRutMvWWLKCunACLcB/s1600/icon.jpg</thumbnail></item>	
 
 <item>
 <title>[COLOR lightslategray]Bein 3 [/COLOR] </title>
@@ -3543,7 +3543,7 @@ src="http://veetle.com/index.php/widget/index/856AE2EBF2B063EC68952B9D350C8C38/0
 <page>http://histream.tv/beinsport3.html</page>			
 </regex>
 
-<thumbnail>https://wallpaperscraft.com/image/triangle_light_blurred_88541_1920x1080.jpg</thumbnail></item>	
+<thumbnail>https://4.bp.blogspot.com/-UDcBF0Rmzt4/V0r1Z2wiY6I/AAAAAAAAAC8/PSPBKn4-__ofUAjrRfkGRutMvWWLKCunACLcB/s1600/icon.jpg</thumbnail></item>	
 
 
 <item>
@@ -3560,7 +3560,7 @@ src="http://veetle.com/index.php/widget/index/856AE2EBF2B063EC68952B9D350C8C38/0
 <page>http://histream.tv/beinsport4.html</page>			
 </regex>
 
-<thumbnail>https://wallpaperscraft.com/image/triangle_light_blurred_88541_1920x1080.jpg</thumbnail></item>	
+<thumbnail>https://4.bp.blogspot.com/-UDcBF0Rmzt4/V0r1Z2wiY6I/AAAAAAAAAC8/PSPBKn4-__ofUAjrRfkGRutMvWWLKCunACLcB/s1600/icon.jpg</thumbnail></item>	
 
 <item>
 <title>[COLOR lightslategray]Bein Fr 1 [/COLOR] </title>
@@ -3576,7 +3576,7 @@ src="http://veetle.com/index.php/widget/index/856AE2EBF2B063EC68952B9D350C8C38/0
 <page>http://histream.tv/beinsport1hdfr.html</page>			
 </regex>
 
-<thumbnail>https://wallpaperscraft.com/image/triangle_light_blurred_88541_1920x1080.jpg</thumbnail></item>	
+<thumbnail>https://4.bp.blogspot.com/-UDcBF0Rmzt4/V0r1Z2wiY6I/AAAAAAAAAC8/PSPBKn4-__ofUAjrRfkGRutMvWWLKCunACLcB/s1600/icon.jpg</thumbnail></item>	
 
 <item>
 <title>[COLOR lightslategray]Bein Fr 2 [/COLOR] </title>
@@ -3592,7 +3592,7 @@ src="http://veetle.com/index.php/widget/index/856AE2EBF2B063EC68952B9D350C8C38/0
 <page>http://histream.tv/beinsport2hdfr.html</page>			
 </regex>
 
-<thumbnail>https://wallpaperscraft.com/image/triangle_light_blurred_88541_1920x1080.jpg</thumbnail></item>	
+<thumbnail>https://4.bp.blogspot.com/-UDcBF0Rmzt4/V0r1Z2wiY6I/AAAAAAAAAC8/PSPBKn4-__ofUAjrRfkGRutMvWWLKCunACLcB/s1600/icon.jpg</thumbnail></item>	
 
 
 
