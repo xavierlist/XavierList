@@ -1,0 +1,44 @@
+#EXTM3U
+
+#EXTINF:-1,[COLOR white]Reivax Movie Show[/COLOR]
+
+
+#EXTINF:-0,South Park ツ. Uncensored
+http://veetle.com/index.php/hls/streamMbrFast/541c316fe8423_/stream.m3u8
+
+#EXTINF:-0,The Big Bang Theory
+rtmp://185.63.252.221:1935/liveedge/?wmsAuthSign=c2VydmVyX3RpbWU9NS8xNC8yMDE2IDM6NDY6MDkgQU0maGFzaF92YWx1ZT1VdGpMZll2aDdIZUNHaFFpOHRjU2RBPT0mdmFsaWRtaW51dGVzPTEw/bigbang_2zpwmtjm swfUrl=http://otronivel.me/jw7/jwplayer.flash.swf flashver=WIN/2021,0,0,182 timeout=15 live=true swfVfy=1 pageUrl=http://miplayer.net/embedplayer.php?width=640&height=480&id=bigbang&autoplay=true&strech=exactfit
+
+#EXTINF:-0,Westerns 24/7
+mms://72.13.93.186/colorwesterns
+
+#EXTINF:-0,Game of Thrones 24/7
+http://167.114.102.27/live/nhNeEbCax4XJt0oSHZDDuA/1463972826/4a1a27296188c273f6733ead4fe4eff6.m3u8|User-Agent=Mozilla%2F5.0%20(Windows%20NT%206.1%3B%20WOW64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F47.0.2526.106%20Safari%2F537.36
+
+
+#EXTINF:-1,Greys anatomy s12e22 
+http://dl.tehmovies.com/94/series/greys.anatomy/s12/Greys.Anatomy.S12E22.480p.Tehmovies.org.mkv
+
+
+#EXTINF:-1,Superbowl 50 half-time 2016
+http://rafaelferrer.info/videos/Super%20Bowl%2050%20Halftime%20Show%20-%20Bruno%20Mars%20&%20Beyonce%20ONLY%20%5bHD%5d%202016.mp4
+
+
+#EXTINF:-1,Game of thrones s6e5
+http://dl.pouyafilm.com/film/series/Game.of.Thrones/s6/Game.of.Thrones.S06E05.480p.HDTV.RMTeam.pouyafilm.mkv
+
+
+#EXTINF:-1,Back to school MrBean
+http://myonlinefilms.poweredbyclear.com/flexshare/myonlinefilms/tvprogs/MrBean+films/BackToSchoolMrBean.mp4
+
+#EXTINF:-1,Mr bean rides again
+http://myonlinefilms.poweredbyclear.com/flexshare/myonlinefilms/tvprogs/MrBean+films/MrBeanRidesAgain.mp4
+
+#EXTINF:-1,--------------------------------------------------------
+http://
+
+#EXTINF:-1,[COLOR green]Pronto "kids shows"[/COLOR]
+https://
+
+#EXTINF:-1,COMING SOON (preview)
+http://178.216.250.167/Serial/Kung%20Fu%20Panda%20Legends%20of%20Awesomeness/Kung_Fu_Panda_Legends_of_Awesomeness_trailer.mp4
