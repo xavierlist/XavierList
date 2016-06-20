@@ -3694,3 +3694,9 @@ Escalofrios SUB www peliculasputlocker net[/URL]
 <link>$doregex[get-decode]</link><regex><name>get-decode</name><expres>$pyFunction:base64.b64decode("aHR0cHM6Ly8zLmJwLmJsb2dzcG90LmNvbS9RdFJTeS1SNnlzY2lJb25xTE5zU2dzQzJHV0tNU3lIa2hFb3BaZ3owVmVrPW0yMg==")</expres><page></page></regex>
 <thumbnail>https://image.tmdb.org/t/p/w396/qKkFk9HELmABpcPoc1HHZGIxQ5a.jpg</thumbnail>
 </item>
+
+<item>
+<title>Buscando a Dory</title>
+<link>http://streamin.to/xv4xp679fhnc</link>
+<thumbnail>https://image.tmdb.org/t/p/w396/79AYCcxw3kSKbhGpx1LiqaCAbwo.jpg</thumbnail>
+</item>
