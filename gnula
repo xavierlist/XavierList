@@ -5,11 +5,8 @@
 <fanart></fanart>
 
 
-
-
- 
 <item>
-<title> [COLOR lime]•[/COLOR]    [COLOR deepskyblue][B]Peliculas En Prueba[/B] [/COLOR][COLOR skyblue]Estrenos[/COLOR] </title>
+<title> [COLOR lime]•[/COLOR]    [COLOR deepskyblue][B]Gnula.nu[/B] [/COLOR][COLOR skyblue]Estrenos[/COLOR] </title>
 <link>$doregex[makelist2]</link>
 
 <regex>
@@ -27,6 +24,62 @@
 </regex>
 
 
+
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<title>[COLOR lightblue][makelist2.param2][/COLOR]</title>
+<link>$doregex[id]</link>
+<regex>
+<name>id</name>
+<expres>file:'(.*)'</expres>
+<page>http://streamin.to/embed-[makelist.param1]-740x360.html</page>	 
+<referer>http://streamin.to</referer>
+</regex>
+<thumbnail>[makelist2.param3]</thumbnail>
+<fanart>[makelist2.param3]</fanart>
+]]></listrepeat>
+<expres>http://streamin.to/(.*?)"</expres>
+<page>[makelist2.param1]</page>
+<referer></referer>
+<cookieJar></cookieJar>
+</regex>
+</item>
+
+ 
+ 
+ 
+ 
+<item>
+<title> [COLOR lime]•[/COLOR]    [COLOR deepskyblue][B]Gnula.nu[/B] [/COLOR][COLOR skyblue]Generos[/COLOR] </title>
+<link>$doregex[makelist3]</link>
+
+<regex>
+<name>makelist3</name>
+<listrepeat><![CDATA[
+   <title>[makelist3.param1]</title>
+    <link>$doregex[makelist2]</link>
+    
+]]></listrepeat>
+<expres>strong>(.*?)<[\w\W\s]{0,13}href="(.*?)"</expres>
+<page>http://gnula.nu/generos/lista-de-generos/</page>
+<referer></referer>
+<cookieJar></cookieJar>
+</regex>
+
+<regex>
+<name>makelist2</name>
+<listrepeat><![CDATA[
+   <title>[makelist2.param2]</title>
+    <link>$doregex[makelist]</link>
+ <thumbnail>[makelist2.param3]</thumbnail>
+<fanart>[makelist2.param3]</fanart>    
+]]></listrepeat>
+<expres>class="Ntooltip" href="(.*?)">(.*?)<[\w\W\s]{0,29}src="(.*?)"</expres>
+<page>[makelist3.param2]</page>
+<referer></referer>
+<cookieJar></cookieJar>
+</regex>
 
 <regex>
 <name>makelist</name>
