@@ -60,7 +60,7 @@
 	
 
 <channel>
-    <name>[COLOR lime]•  [/COLOR][COLOR red] opcion SD[/COLOR] [COLOR red][Recomendada Calidad SD][/COLOR] </name>
+    <name>[COLOR lime]•  [/COLOR][COLOR red] opcion SD[/COLOR] [COLOR blue][Recomendada Calidad SD][/COLOR] </name>
     <thumbnail>http://y.cdn.entutele.com/media/channels/big/http://i.imgur.com/MWSXNtp.png.gif</thumbnail>
     <fanart>http://adrian.kodistream.info/fanart.jpg</fanart>
 	
@@ -284,7 +284,7 @@ http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL353/PROFILE03.m3u8
 	
 	
 	<channel>
-    <name>[COLOR lime]•  [/COLOR][COLOR red] opcion SD-2[/COLOR] [COLOR coral][Recomendada Calidad SD][/COLOR] </name>
+    <name>[COLOR lime]•  [/COLOR][COLOR red] opcion SD-2[/COLOR] [COLOR blue][Recomendada Calidad SD][/COLOR] </name>
     <thumbnail>http://y.cdn.entutele.com/media/channels/big/http://i.imgur.com/MWSXNtp.png.gif</thumbnail>
     <fanart>http://adrian.kodistream.info/fanart.jpg</fanart>
 	
@@ -485,7 +485,7 @@ http://mxl-iptv.cf/LIVE/H01/CANAL353/PROFILE03.m3u8
 
 	
 <channel>
-    <name>[COLOR lime]•  [/COLOR][COLOR red] opcion LQ-1[/COLOR] [COLOR coral][Muy Baja Resolucion • Conexiones Lentas][/COLOR] </name>
+    <name>[COLOR lime]•  [/COLOR][COLOR red] opcion LQ-1[/COLOR] [COLOR blue][Muy Baja Resolucion • Conexiones Lentas][/COLOR] </name>
     <thumbnail>http://y.cdn.entutele.com/media/channels/big/http://i.imgur.com/MWSXNtp.png.gif</thumbnail>
     <fanart>http://adrian.kodistream.info/fanart.jpg</fanart>
 	
@@ -681,7 +681,7 @@ http://mxl-iptv.cf/LIVE/H01/CANAL353/PROFILE03.m3u8
 
 
 <channel>
-    <name>[COLOR lime]•  [/COLOR][COLOR red] opcion LQ-2[/COLOR] [COLOR coral][Baja Resolucion 420x270P * Aceptable][/COLOR] </name>
+    <name>[COLOR lime]•  [/COLOR][COLOR red] opcion LQ-2[/COLOR] [COLOR blue][Baja Resolucion 420x270P * Aceptable][/COLOR] </name>
     <thumbnail>http://y.cdn.entutele.com/media/channels/big/http://i.imgur.com/MWSXNtp.png.gif</thumbnail>
     <fanart>http://adrian.kodistream.info/fanart.jpg</fanart>
 	
@@ -883,7 +883,7 @@ http://mxl-iptv.cf/LIVE/H01/CANAL353/PROFILE03.m3u8
 
 
 <channel>
-    <name>[COLOR lime]•  [/COLOR][COLOR red] opcion 1080p[/COLOR] [COLOR coral][Canales HD][/COLOR] </name>
+    <name>[COLOR lime]•  [/COLOR][COLOR red] opcion 1080p[/COLOR] [COLOR blue][Canales HD][/COLOR] </name>
     <thumbnail>http://y.cdn.entutele.com/media/channels/big/http://i.imgur.com/MWSXNtp.png.gif</thumbnail>
     <fanart>http://adrian.kodistream.info/fanart.jpg</fanart>
 	
@@ -1096,7 +1096,7 @@ http://mxl-iptv.cf/LIVE/H01/CANAL353/PROFILE03.m3u8
 
 
 <channel>
-    <name>[COLOR lime]•  [/COLOR][COLOR red] opcion 05[/COLOR] [COLOR coral][SD & HD][/COLOR] </name>
+    <name>[COLOR lime]•  [/COLOR][COLOR red] opcion 05[/COLOR] [COLOR blue][SD & HD][/COLOR] </name>
     <thumbnail>http://y.cdn.entutele.com/media/channels/big/http://i.imgur.com/MWSXNtp.png.gif</thumbnail>
     <fanart>http://adrian.kodistream.info/fanart.jpg</fanart>
 	
@@ -1789,7 +1789,7 @@ http://mxl-iptv.cf/LIVE/H01/CANAL353/PROFILE03.m3u8
 
 
 <channel>
-    <name>[COLOR lime]•  [/COLOR][COLOR red] opcion 06 [/COLOR] [COLOR coral][Calidad SD][/COLOR] </name>
+    <name>[COLOR lime]•  [/COLOR][COLOR red] opcion 06 [/COLOR] [COLOR blue][Calidad SD][/COLOR] </name>
     <thumbnail>http://y.cdn.entutele.com/media/channels/big/http://i.imgur.com/MWSXNtp.png.gif</thumbnail>
     <fanart>http://adrian.kodistream.info/fanart.jpg</fanart>
 	
@@ -1993,7 +1993,7 @@ http://latino-webtv.ml/live/353_03.m3u8|User-Agent=iPad&amp;Referer=http://latin
 	
 
 <channel>
-    <name>[COLOR lime]•  [/COLOR][COLOR red] opcion 07[/COLOR] [COLOR coral][Calidad HD][/COLOR] </name>
+    <name>[COLOR lime]•  [/COLOR][COLOR red] opcion 07[/COLOR] [COLOR blue][Calidad HD][/COLOR] </name>
     <thumbnail>http://y.cdn.entutele.com/media/channels/big/http://i.imgur.com/MWSXNtp.png.gif</thumbnail>
     <fanart>http://adrian.kodistream.info/fanart.jpg</fanart>
 	
@@ -2183,7 +2183,7 @@ http://latino-webtv.ml/live/353_05.m3u8|User-Agent=iPad&amp;Referer=http://latin
  -->
  
 <channel>
-    <name>[COLOR lime]•  [/COLOR][COLOR red]Mas Listas  [/COLOR] [COLOR coral][/COLOR] </name>
+    <name>[COLOR lime]•  [/COLOR][COLOR red]Mas Listas  [/COLOR] [COLOR blue][/COLOR] </name>
     <thumbnail>http://y.cdn.entutele.com/media/channels/big/http://i.imgur.com/MWSXNtp.png.gif</thumbnail>
     <fanart>http://adrian.kodistream.info/fanart.jpg</fanart>
 	
