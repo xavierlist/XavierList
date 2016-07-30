@@ -1,7 +1,337 @@
+<item><link>$doregex[id]</link><regex><name>id</name><expres>file:'(.*)'</expres><page>http://streamin.to/embed-v6z88v8gpyzi-740x360.html</page>	 <referer>http://streamin.to</referer></regex>        <title>Batman vs. Superman: El origen de la justicia BRip</title>
+    <thumbnail>https://image.tmdb.org/t/p/w500/cGOPbv9wA5gEejkUN892JrveARt.jpg</thumbnail>
+     <fanart>https://image.tmdb.org/t/p/original/vsjBeMPZtyB7yNsYY56XYxifaQZ.jpg</fanart>
+     <genre>Acción, Aventura, Fantasía</genre>          </item>
 
-<item><link>$doregex[id]</link><regex><name>id</name><expres>file:'(.*)'</expres><page>http://streamin.to/embed-1sh5pp5rjxl5-740x360.html</page>	 <referer>http://streamin.to</referer></regex>         <title>13 Hours The Secret Soldiers of Benghazi 2016 hdrip latino gnula</title>    <thumbnail>https://image.tmdb.org/t/p/w500/4gpW4MkRI0BB17GHOJzXq0WamDP.jpg</thumbnail>
+<item><link>$doregex[id]</link><regex><name>id</name><expres>file:'(.*)'</expres><page>http://streamin.to/embed-jqxqgupykrjo-740x360.html</page>	 <referer>http://streamin.to</referer></regex>         <title>Un Espía y Medio - HCS Audio Latino</title>
+    <thumbnail>https://image.tmdb.org/t/p/w500/q7GOSxRsBLTJysmAEjFoQZfScsq.jpg</thumbnail>
+     <fanart>https://image.tmdb.org/t/p/original/nX64YARJo4OugPTSVuvFwZzcqM4.jpg</fanart>
+     <genre>Acción, Comedia</genre>         </item>
+
+<item><link>$doregex[id]</link><regex><name>id</name><expres>file:'(.*)'</expres><page>http://streamin.to/embed-f9cmlwdxqota-740x360.html</page>	 <referer>http://streamin.to</referer></regex>      <title>Mente Implacable HDRIP</title>
+    <thumbnail>https://image.tmdb.org/t/p/w500/6K5JOW6HmrwJnP0VILq667cspnS.jpg</thumbnail>
+     <fanart>https://image.tmdb.org/t/p/original/hNXfIPwexOpZXmOww6ewoihMcfN.jpg</fanart>
+     <genre>Ciencia ficción, Acción, Crimen, Drama</genre>         </item>
+
+<item><link>$doregex[id]</link><regex><name>id</name><expres>file:'(.*)'</expres><page>http://streamin.to/embed-zi7rlnwi48n7-740x360.html</page>	 <referer>http://streamin.to</referer></regex>        <title>The BFG  TS op1</title>
+    <thumbnail>https://image.tmdb.org/t/p/w500/xMvzfhXZdfeLBZZUIQRB4vw1EtA.jpg</thumbnail>
+     <fanart>https://image.tmdb.org/t/p/original/eYT9XQBo1eC4DwPYqhCol0dFFc2.jpg</fanart>
+     <genre>Familia, Fantasía</genre>         </item>
+
+
+
+<item><link>$doregex[id]</link><regex><name>id</name><expres>file:'(.*)'</expres><page>http://streamin.to/embed-jdyh1iguonur-740x360.html</page>	 <referer>http://streamin.to</referer></regex>         <title>La Leyenda de Tarzan  TS opc1</title>
+    <thumbnail>https://image.tmdb.org/t/p/w500/6FxOPJ9Ysilpq0IgkrMJ7PubFhq.jpg</thumbnail>
+     <fanart>https://image.tmdb.org/t/p/original/75GFqrnHMKqkcNZ2wWefWXfqtMV.jpg</fanart>
+     <genre>Acción, Aventura</genre>       </item>
+
+<item><link>$doregex[id]</link><regex><name>id</name><expres>file:'(.*)'</expres><page>http://streamin.to/embed-sqk0nkh4amhd-740x360.html</page>	 <referer>http://streamin.to</referer></regex>        <title>La Leyenda de Tarzan  TS opc2</title>
+    <thumbnail>https://image.tmdb.org/t/p/w500/6FxOPJ9Ysilpq0IgkrMJ7PubFhq.jpg</thumbnail>
+     <fanart>https://image.tmdb.org/t/p/original/75GFqrnHMKqkcNZ2wWefWXfqtMV.jpg</fanart>
+     <genre>Acción, Aventura</genre>            </item>
+
+<item><link>$doregex[id]</link><regex><name>id</name><expres>file:'(.*)'</expres><page>http://streamin.to/embed-nxx87gv7jvl5-740x360.html</page>	 <referer>http://streamin.to</referer></regex>         <title>The Nice Guys opc1</title>
+    <thumbnail>https://image.tmdb.org/t/p/w500/vNCeqxbKyDHL9LUza03V2Im16wB.jpg</thumbnail>
+     <fanart>https://image.tmdb.org/t/p/original/WADvFcUbYGn6ZCjcnC1qcu3hro.jpg</fanart>
+     <genre>Comedia, Crimen, Suspense, Misterio</genre>           </item>
+
+<item><link>$doregex[id]</link><regex><name>id</name><expres>file:'(.*)'</expres><page>http://streamin.to/embed-76xjvkzkz09n-740x360.html</page>	 <referer>http://streamin.to</referer></regex>        <title>The Nice Guys opc2</title>
+    <thumbnail>https://image.tmdb.org/t/p/w500/vNCeqxbKyDHL9LUza03V2Im16wB.jpg</thumbnail>
+     <fanart>https://image.tmdb.org/t/p/original/WADvFcUbYGn6ZCjcnC1qcu3hro.jpg</fanart>
+     <genre>Comedia, Crimen, Suspense, Misterio</genre>            </item>
+
+<item><link>$doregex[id]</link><regex><name>id</name><expres>file:'(.*)'</expres><page>http://streamin.to/embed-plcza9vm3h5j-740x360.html</page>	 <referer>http://streamin.to</referer></regex>          <title>The Purge</title>
+    <thumbnail>https://image.tmdb.org/t/p/w500/wqqS6Be8WhUL7NPjbH0h9v7wido.jpg</thumbnail>
+     <fanart>https://image.tmdb.org/t/p/original/lPhsKTtycmbp6bzJAG662Pd5U3N.jpg</fanart>
+     <genre>Acción, Terror, Ciencia ficción</genre>           </item>
+
+<item><link>$doregex[id]</link><regex><name>id</name><expres>file:'(.*)'</expres><page>http://streamin.to/embed-cgx74g0u3goo-740x360.html</page>	 <referer>http://streamin.to</referer></regex>         <title>Warcraft: El Primer Encuentro de Dos Mundos  opc1</title>
+    <thumbnail>https://image.tmdb.org/t/p/w500/vo3olQLGuDYAcxf9G0LtyM83QYx.jpg</thumbnail>
+     <fanart>https://image.tmdb.org/t/p/original/5SX2rgKXZ7NVmAJR5z5LprqSXKa.jpg</fanart>
+     <genre>Acción, Aventura, Fantasía</genre>          </item>
+
+<item><link>$doregex[id]</link><regex><name>id</name><expres>file:'(.*)'</expres><page>http://streamin.to/embed-nd0dwqkx4nug-740x360.html</page>	 <referer>http://streamin.to</referer></regex>         <title>Warcraft: El Primer Encuentro de Dos Mundos  opc2</title>
+    <thumbnail>https://image.tmdb.org/t/p/w500/vo3olQLGuDYAcxf9G0LtyM83QYx.jpg</thumbnail>
+     <fanart>https://image.tmdb.org/t/p/original/5SX2rgKXZ7NVmAJR5z5LprqSXKa.jpg</fanart>
+     <genre>Acción, Aventura, Fantasía</genre>          </item>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<item><link>$doregex[id]</link><regex><name>id</name><expres>file:'(.*)'</expres><page>http://streamin.to/embed-b0rzjnd3d02n-740x360.html</page>	 <referer>http://streamin.to</referer></regex>        <title>Independence Day: Resurgence Calidad TS</title>
+    <thumbnail>https://image.tmdb.org/t/p/w500/wfGpyXbCHmsehcy1OzUgCKLQH3w.jpg</thumbnail>
+     <fanart>https://image.tmdb.org/t/p/original/8SqBiesvo1rh9P1hbJTmnVum6jv.jpg</fanart>
+     <genre>Acción, Aventura, Ciencia ficción</genre> </item>
+	 
+<item><link>$doregex[id]</link><regex><name>id</name><expres>file:'(.*)'</expres><page>http://streamin.to/embed-4yhxdtn9ws82-740x360.html</page>	 <referer>http://streamin.to</referer></regex>         <title>Buscando a Dory TS</title>
+    <thumbnail>https://image.tmdb.org/t/p/w500/jihx81ZA5T0LTlgIHms21oKsV3c.jpg</thumbnail>
+     <fanart>https://image.tmdb.org/t/p/original/iWRKYHTFlsrxQtfQqFOQyceL83P.jpg</fanart>
+     <genre>Aventura, Animación, Comedia</genre> </item>
+	 
+
+<item><link>$doregex[id]</link><regex><name>id</name><expres>file:'(.*)'</expres><page>http://streamin.to/embed-b421md55mdso-740x360.html</page>	 <referer>http://streamin.to</referer></regex>         <title>Operaciones Especiales 2015 </title>   <thumbnail>https://image.tmdb.org/t/p/w500/xEfRrQfoA5oGykrANe1Gm2XkKJT.jpg</thumbnail>
+     <fanart>https://image.tmdb.org/t/p/original/12sZCJma2q3VmskVqFcM2yzGLDe.jpg</fanart>
+     <genre>Acción, Suspense</genre>         </item>
+
+<item><link>$doregex[id]</link><regex><name>id</name><expres>file:'(.*)'</expres><page>http://streamin.to/embed-lek9fe43vkp2-740x360.html</page>	 <referer>http://streamin.to</referer></regex>         <title>Batman vs. Superman: El origen de la justicia</title>
+    <thumbnail>https://image.tmdb.org/t/p/w500/cGOPbv9wA5gEejkUN892JrveARt.jpg</thumbnail>
+     <fanart>https://image.tmdb.org/t/p/original/vsjBeMPZtyB7yNsYY56XYxifaQZ.jpg</fanart>
+     <genre>Acción, Aventura, Fantasía</genre>           </item>
+
+<item><link>$doregex[id]</link><regex><name>id</name><expres>file:'(.*)'</expres><page>http://streamin.to/embed-9wcmamtz8u55-740x360.html</page>	 <referer>http://streamin.to</referer></regex>         <title>Colonia 2015 HDRIP</title>     <thumbnail>https://image.tmdb.org/t/p/w500/AmZnx1Lqn9lSRcVRxWzd1cXje0g.jpg</thumbnail>
+     <fanart>https://image.tmdb.org/t/p/original/3Sfjr8UCYrbtDubyDA0MCFjDccI.jpg</fanart>
+     <genre>Drama, Romance, Historia</genre>        </item>
+
+<item><link>$doregex[id]</link><regex><name>id</name><expres>file:'(.*)'</expres><page>http://streamin.to/embed-y9tifay7pjzd-740x360.html</page>	 <referer>http://streamin.to</referer></regex>         <title>Jane Got a Gun</title>        <thumbnail>https://image.tmdb.org/t/p/w500/4BffiEm4xkrC7de5KZ51kK3uNYJ.jpg</thumbnail>
+     <fanart>https://image.tmdb.org/t/p/original/jP3p4cwZaPkAWBBKyZNECp81fj1.jpg</fanart>
+     <genre>Acción, Drama, Western</genre>      </item>
+
+<item><link>$doregex[id]</link><regex><name>id</name><expres>file:'(.*)'</expres><page>http://streamin.to/embed-gfwizvqtoax6-740x360.html</page>	 <referer>http://streamin.to</referer></regex>         <title>La Era del Hielo 5 - Version CAM</title>       <thumbnail>https://image.tmdb.org/t/p/w500/j3nYAN423DyYd7xRJpoqvE7Ovgf.jpg</thumbnail>
+     <fanart>https://image.tmdb.org/t/p/original/gOU1cR0w1XtryqyVQCLU8X5OSMY.jpg</fanart>
+     <genre>Comedia, Familia, Animación, Aventura</genre>        </item>
+
+<item><link>$doregex[id]</link><regex><name>id</name><expres>file:'(.*)'</expres><page>http://streamin.to/embed-f2q84pbxg4el-740x360.html</page>	 <referer>http://streamin.to</referer></regex>         <title>Las Aparicio</title>       <thumbnail>https://image.tmdb.org/t/p/w500/6LfCkfHYATaB7HClrGfcBcQVpiK.jpg</thumbnail>
+     <fanart>https://image.tmdb.org/t/p/original/yp4EHngjCoen7JRWOzCM0MqFc4Y.jpg</fanart>
+     <genre>Drama</genre>        </item>
+
+<item><link>$doregex[id]</link><regex><name>id</name><expres>file:'(.*)'</expres><page>http://streamin.to/embed-egem4l56afij-740x360.html</page>	 <referer>http://streamin.to</referer></regex>         <title>Las Vacas con gafas</title>   <thumbnail>https://image.tmdb.org/t/p/w500/k0F63F0hRXgPS4HGKDkxHM7mpcJ.jpg</thumbnail>
+     <fanart>https://image.tmdb.org/t/p/original/213W8saT99RyE6OHdJjmKA8LRLF.jpg</fanart>
+     <genre>Drama</genre>         </item>
+
+<item><link>$doregex[id]</link><regex><name>id</name><expres>file:'(.*)'</expres><page>http://streamin.to/embed-1e2xplast1r7-740x360.html</page>	 <referer>http://streamin.to</referer></regex>         <title>Me Before You - Subtitulada</title> <thumbnail>https://image.tmdb.org/t/p/w500/oN5lELHH5Xheiy0YdhnY3JB4hx2.jpg</thumbnail>
+     <fanart>https://image.tmdb.org/t/p/original/o4lxNwKJz8oq3R0kLOIsDlHbDhZ.jpg</fanart>
+     <genre>Drama, Romance</genre>          </item>
+
+<item><link>$doregex[id]</link><regex><name>id</name><expres>file:'(.*)'</expres><page>http://streamin.to/embed-7vnja4d9cc9b-740x360.html</page>	 <referer>http://streamin.to</referer></regex>         <title>now you see me 2 - Version TS</title>    <thumbnail>https://image.tmdb.org/t/p/w500/hU0E130tsGdsYa4K9lc3Xrn5Wyt.jpg</thumbnail>
+     <fanart>https://image.tmdb.org/t/p/original/zrAO2OOa6s6dQMQ7zsUbDyIBrAP.jpg</fanart>
+     <genre>Acción, Comedia, Suspense</genre>        </item>
+
+<item><link>$doregex[id]</link><regex><name>id</name><expres>file:'(.*)'</expres><page>http://streamin.to/embed-7mlhtkx8frng-740x360.html</page>	 <referer>http://streamin.to</referer></regex>         <title>The Wrath of Vajra</title> <thumbnail>https://image.tmdb.org/t/p/w500/v1VLvWmMZOhGz6icv4ukWis7WT7.jpg</thumbnail>
+     <fanart>https://image.tmdb.org/t/p/original/r96kWEuEDeGTM9kHG9gCyaKHK2O.jpg</fanart>
+     <genre>Fantasía, Acción, Terror</genre>          </item>
+
+<item><link>$doregex[id]</link><regex><name>id</name><expres>file:'(.*)'</expres><page>http://streamin.to/embed-g3ot64ginvfl-740x360.html</page>	 <referer>http://streamin.to</referer></regex>         <title>Two-Bit Waltz </title>    <thumbnail>https://image.tmdb.org/t/p/w500/evamB3SAuui5FJcxRqNnB7u1V4n.jpg</thumbnail>
+     <fanart>https://image.tmdb.org/t/p/original/jlhZ3jNayXtARQX1486daZ0dvLr.jpg</fanart>
+     <genre>Comedia, Drama, Familia</genre>       </item>
+
+<item><link>$doregex[id]</link><regex><name>id</name><expres>file:'(.*)'</expres><page>http://streamin.to/embed-ia5mfuelddxd-740x360.html</page>	 <referer>http://streamin.to</referer></regex>         <title>Z for Zachariah</title>      <thumbnail>https://image.tmdb.org/t/p/w500/xrwxzShNKYs8l0ISnfjFVfUD0CW.jpg</thumbnail>
+     <fanart>https://image.tmdb.org/t/p/original/tYZ9bAGJJ0YCLZbP1p23CVB9y6Q.jpg</fanart>
+     <genre>Drama, Ciencia ficción, Suspense</genre>     </item>
+
+
+
+
+
+
+
+
+
+
+
+
+<item><link>$doregex[id]</link><regex><name>id</name><expres>file:'(.*)'</expres><page>http://streamin.to/embed-arzx2yq2if67-740x360.html</page>	 <referer>http://streamin.to</referer></regex>       <title>HardCore Henry</title>
+    <thumbnail>https://image.tmdb.org/t/p/w500/qfWLO0iXmbvxzyk0ez4pXrgkRDM.jpg</thumbnail>
+     <fanart>https://image.tmdb.org/t/p/original/vhOzFmdma0ELiGSuyhNOLAgNG9D.jpg</fanart>
+     <genre>Acción, Aventura, Ciencia ficción</genre></item>
+
+<item><link>$doregex[id]</link><regex><name>id</name><expres>file:'(.*)'</expres><page>http://streamin.to/embed-pxk7dad19ve3-740x360.html</page>	 <referer>http://streamin.to</referer></regex>         <title>Leal 2016  latino </title><thumbnail>https://image.tmdb.org/t/p/w500/rUnKJZrDXdSx3GsUu8he6FKHOIf.jpg</thumbnail>
+     <fanart>https://image.tmdb.org/t/p/original/jaoDlr7XGGtHs1VpN9macrbXheO.jpg</fanart>
+     <genre>Aventura, Ciencia ficción</genre></item>
+	 
+	 
+<item><link>$doregex[id]</link><regex><name>id</name><expres>file:'(.*)'</expres><page>http://streamin.to/embed-80ghhdykqrey-740x360.html</page>	 <referer>http://streamin.to</referer></regex>         <title>Now You See Me 2 calidad TS</title>
+    <thumbnail>https://image.tmdb.org/t/p/w500/hU0E130tsGdsYa4K9lc3Xrn5Wyt.jpg</thumbnail>
+     <fanart>https://image.tmdb.org/t/p/original/zrAO2OOa6s6dQMQ7zsUbDyIBrAP.jpg</fanart>
+     <genre>Acción, Comedia, Suspense</genre></item>
+	 
+	 
+<item><link>$doregex[id]</link><regex><name>id</name><expres>file:'(.*)'</expres><page>http://streamin.to/embed-iavzz261duqx-740x360.html</page>	 <referer>http://streamin.to</referer></regex>        <title>Tortugas Ninja 2 Fuera de las sombras 2016  latino </title>    <thumbnail>https://image.tmdb.org/t/p/w500/5BCpxPLyp4wGcTribpZ6WtNkVJ5.jpg</thumbnail>
+     <fanart>https://image.tmdb.org/t/p/original/j52KyBIB0MlB8QfegceTQ6y1BHT.jpg</fanart>
+     <genre>Acción, Aventura, Comedia</genre>    </item>
+
+<item><link>$doregex[id]</link><regex><name>id</name><expres>file:'(.*)'</expres><page>http://streamin.to/embed-blpfx5oxg29b-740x360.html</page>	 <referer>http://streamin.to</referer></regex>         <title>Buscando a Dory Calidad TS Latino</title>
+    <thumbnail>https://image.tmdb.org/t/p/w500/jihx81ZA5T0LTlgIHms21oKsV3c.jpg</thumbnail>
+     <fanart>https://image.tmdb.org/t/p/original/iWRKYHTFlsrxQtfQqFOQyceL83P.jpg</fanart>
+     <genre>Aventura, Animación, Comedia</genre> </item>
+
+<item><link>$doregex[id]</link><regex><name>id</name><expres>file:'(.*)'</expres><page>http://streamin.to/embed-d5m264hiye4l-740x360.html</page>	 <referer>http://streamin.to</referer></regex>         <title>Buscando a Dory TS Latino</title>
+    <thumbnail>https://image.tmdb.org/t/p/w500/jihx81ZA5T0LTlgIHms21oKsV3c.jpg</thumbnail>
+     <fanart>https://image.tmdb.org/t/p/original/iWRKYHTFlsrxQtfQqFOQyceL83P.jpg</fanart>
+     <genre>Aventura, Animación, Comedia</genre> </item>
+
+
+
+
+
+<item><link>$doregex[id]</link><regex><name>id</name><expres>file:'(.*)'</expres><page>http://streamin.to/embed-zeeqinsnynbf-740x360.html</page>	 <referer>http://streamin.to</referer></regex>         <title>Batman vs. Superman: El origen de la justicia</title>
+    <thumbnail>https://image.tmdb.org/t/p/w500/cGOPbv9wA5gEejkUN892JrveARt.jpg</thumbnail>
+     <fanart>https://image.tmdb.org/t/p/original/vsjBeMPZtyB7yNsYY56XYxifaQZ.jpg</fanart>
+     <genre>Acción, Aventura, Fantasía</genre></item>
+
+<item><link>$doregex[id]</link><regex><name>id</name><expres>file:'(.*)'</expres><page>http://streamin.to/embed-xod2thh34w4i-740x360.html</page>	 <referer>http://streamin.to</referer></regex>        <title>Triple 9 2016 latino </title><thumbnail>https://image.tmdb.org/t/p/w500/dwRHF43p50wLIYAIxrUhLkK3jCI.jpg</thumbnail>
+     <fanart>https://image.tmdb.org/t/p/original/yB5f25CPuTrb6XSbd076kzR9Qz6.jpg</fanart>
+     <genre>Crimen, Drama, Suspense</genre></item>
+
+
+
+
+
+
+
+
+<item><link>$doregex[id]</link><regex><name>id</name><expres>file:'(.*)'</expres><page>http://streamin.to/embed-0mjsmgk7mogi-740x360.html</page>	 <referer>http://streamin.to</referer></regex>         <title>El Conjuro 2 2016 TS Subtitulado</title>     <thumbnail>https://image.tmdb.org/t/p/w500/8yUeC25Ho8ZwwwtiYrfBzDkFcdk.jpg</thumbnail>
+     <fanart>https://image.tmdb.org/t/p/original/dsvFL8iFNB2WMfyny9dCCHvCxk1.jpg</fanart>
+     <genre>Terror</genre>      </item>
+
+
+<item><link>$doregex[id]</link><regex><name>id</name><expres>file:'(.*)'</expres><page>http://streamin.to/embed-mfwe59ap8tya-740x360.html</page>	 <referer>http://streamin.to</referer></regex>         <title>Dia de las Madres 2016 Latino</title> <thumbnail>https://image.tmdb.org/t/p/w500/apKhA6KDkBI8fa6Wr72XHyqsIF7.jpg</thumbnail>
+     <fanart>https://image.tmdb.org/t/p/original/q0KvVM1VkSXXkib3sEAMcreTyyL.jpg</fanart>
+     <genre>Comedia, Drama, Romance</genre>   </item>
+
+<item><link>$doregex[id]</link><regex><name>id</name><expres>file:'(.*)'</expres><page>http://streamin.to/embed-g0jlmle2sk0v-740x360.html</page>	 <referer>http://streamin.to</referer></regex>         <title>Milagros desde el cielo 2016 latino </title>  <thumbnail>https://image.tmdb.org/t/p/w500/3sPIq0Uqe8SN5T0Pq7vUOFLb2Bk.jpg</thumbnail>
+     <fanart>https://image.tmdb.org/t/p/original/sC43EmlBkDaWOGn4vJ1EAiyQIE8.jpg</fanart>
+     <genre>Drama</genre>    </item>
+
+
+<item><link>$doregex[id]</link><regex><name>id</name><expres>file:'(.*)'</expres><page>http://streamin.to/embed-tt2yht9dpsvo-740x360.html</page>	 <referer>http://streamin.to</referer></regex>         <title>El Cazador y la Reina del Hielo HD Latino</title>
+    <thumbnail>https://image.tmdb.org/t/p/w500/5zBHbEeB554oRELKauKXW5Z3q9t.jpg</thumbnail>
+     <fanart>https://image.tmdb.org/t/p/original/nQ0UvXdxoMZguLuPj0sdV0U36KR.jpg</fanart>
+     <genre>Acción, Aventura, Drama, Fantasía</genre>   </item>
+
+<item><link>$doregex[id]</link><regex><name>id</name><expres>file:'(.*)'</expres><page>http://streamin.to/embed-alb8xs36zwie-740x360.html</page>	 <referer>http://streamin.to</referer></regex>         <title>Marte calidad BR latino </title>  <title>Misión Rescate</title>
+    <thumbnail>https://image.tmdb.org/t/p/w500/dZjf78JXg0LAjD5qAOs6wFlc67B.jpg</thumbnail>
+     <fanart>https://image.tmdb.org/t/p/original/sy3e2e4JwdAtd2oZGA2uUilZe8j.jpg</fanart>
+     <genre>Drama, Aventura, Ciencia ficción</genre>    </item>
+
+
+
+
+
+
+<item><link>$doregex[id]</link><regex><name>id</name><expres>file:'(.*)'</expres><page>http://streamin.to/embed-4piveve0e5mq-740x360.html</page>	 <referer>http://streamin.to</referer></regex>         <title>El Conjuro 2 2016 tshq latino </title>     <thumbnail>https://image.tmdb.org/t/p/w500/8yUeC25Ho8ZwwwtiYrfBzDkFcdk.jpg</thumbnail>
+     <fanart>https://image.tmdb.org/t/p/original/dsvFL8iFNB2WMfyny9dCCHvCxk1.jpg</fanart>
+     <genre>Terror</genre>   </item>
+
+<item><link>$doregex[id]</link><regex><name>id</name><expres>file:'(.*)'</expres><page>http://streamin.to/embed-aemk4mjlq1c6-740x360.html</page>	 <referer>http://streamin.to</referer></regex>         <title>Alicia a Través del Espejo - TS Latino</title>
+    <thumbnail>https://image.tmdb.org/t/p/w500/v3Sn2BXCWglFFDUaHWHifIhyDnv.jpg</thumbnail>
+     <fanart>https://image.tmdb.org/t/p/original/2azgMtH7vt5av3OgqdiMJfjn3EH.jpg</fanart>
+     <genre>Aventura, Familia, Fantasía</genre>     </item>
+
+ 
+
+<item><link>$doregex[id]</link><regex><name>id</name><expres>file:'(.*)'</expres><page>http://streamin.to/embed-1f9jnz42iogo-740x360.html</page>	 <referer>http://streamin.to</referer></regex>        <title>La Bruja -WEBScreen Latino</title>
+    <thumbnail>https://image.tmdb.org/t/p/w500/hJPltoCoMP6X4QC8HtDm3XpUbP3.jpg</thumbnail>
+     <fanart>https://image.tmdb.org/t/p/original/k06hljqysdm9cvHGZk6Meiv81e6.jpg</fanart>
+     <genre>Misterio, Terror</genre>    </item>
+
+
+<item><link>$doregex[id]</link><regex><name>id</name><expres>file:'(.*)'</expres><page>http://streamin.to/embed-jxmlw8cq62pw-740x360.html</page>	 <referer>http://streamin.to</referer></regex>         <title>Money Monster TSHQ latino </title>   <thumbnail>https://image.tmdb.org/t/p/w500/kKmeBCe73jZlN1rjfJy1TEZrOw5.jpg</thumbnail>
+     <fanart>https://image.tmdb.org/t/p/original/o6YRHJoUg5FaV88zdEPoi8zg3JV.jpg</fanart>
+     <genre>Drama, Suspense</genre>      </item>
+
+<item><link>$doregex[id]</link><regex><name>id</name><expres>file:'(.*)'</expres><page>http://streamin.to/embed-nfzueogxmuct-740x360.html</page>	 <referer>http://streamin.to</referer></regex>          <title>MI gran boda griega 2   - TS</title>
+    <thumbnail>https://image.tmdb.org/t/p/w500/gN7Su6RP9zDXJigHGyGLnRaWqsb.jpg</thumbnail>
+     <fanart>https://image.tmdb.org/t/p/original/vkcHia99rJqyItBQ0VoNF9qo04v.jpg</fanart>
+     <genre>Comedia</genre>    </item>
+
+<item><link>$doregex[id]</link><regex><name>id</name><expres>file:'(.*)'</expres><page>http://streamin.to/embed-i2uk862gqstn-740x360.html</page>	 <referer>http://streamin.to</referer></regex>         <title>Money Monster TSHQ Latino </title>     <thumbnail>https://image.tmdb.org/t/p/w500/kKmeBCe73jZlN1rjfJy1TEZrOw5.jpg</thumbnail>
+     <fanart>https://image.tmdb.org/t/p/original/o6YRHJoUg5FaV88zdEPoi8zg3JV.jpg</fanart>
+     <genre>Drama, Suspense</genre>    </item>
+
+<item><link>$doregex[id]</link><regex><name>id</name><expres>file:'(.*)'</expres><page>http://streamin.to/embed-6beu2hfgz241-740x360.html</page>	 <referer>http://streamin.to</referer></regex>         <title>Neighbors 2: Sorority Rising - HDRIP Subtitulado</title>   <thumbnail>https://image.tmdb.org/t/p/w500/gfZtP81RyqQt8kTMgkAhVbTEwqU.jpg</thumbnail>
+     <fanart>https://image.tmdb.org/t/p/original/8HuO1RMDI3prfWDkF7t1y8EhLVO.jpg</fanart>
+     <genre>Comedia</genre>    </item>
+
+
+
+ 
+
+<item><link>$doregex[id]</link><regex><name>id</name><expres>file:'(.*)'</expres><page>http://streamin.to/embed-2xqeff8wz8q3-740x360.html</page>	 <referer>http://streamin.to</referer></regex>         <title>th3 broth3rs gr1msby brrip latino gnula</title>       </item>
+
+<item><link>$doregex[id]</link><regex><name>id</name><expres>file:'(.*)'</expres><page>http://streamin.to/embed-ha98cn9hvxnv-740x360.html</page>	 <referer>http://streamin.to</referer></regex>         <title>Tortugas Ninja 2 Fuera de las sombras 2016 HD-TS vose</title>   <thumbnail>https://image.tmdb.org/t/p/w500/5BCpxPLyp4wGcTribpZ6WtNkVJ5.jpg</thumbnail>
+     <fanart>https://image.tmdb.org/t/p/original/j52KyBIB0MlB8QfegceTQ6y1BHT.jpg</fanart>
+     <genre>Acción, Aventura, Comedia</genre>     </item>
+
+ 
+<item><link>$doregex[id]</link><regex><name>id</name><expres>file:'(.*)'</expres><page>http://streamin.to/embed-hibtpzm7td5w-740x360.html</page>	 <referer>http://streamin.to</referer></regex>         <title>Tortugas Ninja 2 Fuera de las sombras 2016 CAM LAT</title>  <thumbnail>https://image.tmdb.org/t/p/w500/5BCpxPLyp4wGcTribpZ6WtNkVJ5.jpg</thumbnail>
+     <fanart>https://image.tmdb.org/t/p/original/j52KyBIB0MlB8QfegceTQ6y1BHT.jpg</fanart>
+     <genre>Acción, Aventura, Comedia</genre>      </item>
+
+<item><link>$doregex[id]</link><regex><name>id</name><expres>file:'(.*)'</expres><page>http://streamin.to/embed-e036xahqs8jy-740x360.html</page>	 <referer>http://streamin.to</referer></regex>         <title>Warcraft el origen  TC Subtitulada</title>       <thumbnail>https://image.tmdb.org/t/p/w500/sIELC8gzCWjyNxIB0Kt80tDlhqp.jpg</thumbnail>
+     <fanart>https://image.tmdb.org/t/p/original/5SX2rgKXZ7NVmAJR5z5LprqSXKa.jpg</fanart>
+     <genre>Acción, Aventura, Fantasía</genre>    </item>
+
+<item><link>$doregex[id]</link><regex><name>id</name><expres>file:'(.*)'</expres><page>http://streamin.to/embed-xvdizv8107t5-740x360.html</page>	 <referer>http://streamin.to</referer></regex>         <title>Warcraft el origen cam vose</title>        <thumbnail>https://image.tmdb.org/t/p/w500/sIELC8gzCWjyNxIB0Kt80tDlhqp.jpg</thumbnail>
+     <fanart>https://image.tmdb.org/t/p/original/5SX2rgKXZ7NVmAJR5z5LprqSXKa.jpg</fanart>
+     <genre>Acción, Aventura, Fantasía</genre>   </item>
+
+
+
+<item><link>$doregex[id]</link><regex><name>id</name><expres>file:'(.*)'</expres><page>http://streamin.to/embed-phad0nj2vq4g-740x360.html</page>	 <referer>http://streamin.to</referer></regex>           <title>X-Men: Apocalipsis   TS Latino</title>
+    <thumbnail>https://image.tmdb.org/t/p/w500/zSouWWrySXshPCT4t3UKCQGayyo.jpg</thumbnail>
+     <fanart>https://image.tmdb.org/t/p/original/oQWWth5AOtbWG9o8SCAviGcADed.jpg</fanart>
+     <genre>Acción, Aventura, Ciencia ficción, Fantasía</genre>       </item>
+
+
+
+<item><link>$doregex[id]</link><regex><name>id</name><expres>file:'(.*)'</expres><page>http://streamin.to/embed-1jznpbh3dsqy-740x360.html</page>	 <referer>http://streamin.to</referer></regex>         <title>Zoolander BR - Latino</title> <thumbnail>https://image.tmdb.org/t/p/w500/u2s2WOskiEH71WbGCZehZ0shduO.jpg</thumbnail>
+     <fanart>https://image.tmdb.org/t/p/original/zchSMYxvRivumqWhnsYZFyhriTy.jpg</fanart>
+     <genre>Comedia</genre>      </item>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<item><link>http://www.spruto.tv/get_file/1/9a3a734adee79cf55de6473e49ce8b1f/181000/181241/181241.mp4</link>
+<title>Compadres (2016) calidad TS</title>
+<thumbnail>https://image.tmdb.org/t/p/w500/cQfWEHdTYFI4ljckuCa8DRKSRm2.jpg</thumbnail>
+     <fanart>https://image.tmdb.org/t/p/original/u7wlXy6MikPwuxrtWkchhigtfOY.jpg</fanart>
+</item>
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	<item><link>$doregex[id]</link><regex><name>id</name><expres>file:'(.*)'</expres><page>http://streamin.to/embed-1sh5pp5rjxl5-740x360.html</page>	 <referer>http://streamin.to</referer></regex>         <title>13 Hours The Secret Soldiers of Benghazi 2016 hdrip latino gnula</title>    <thumbnail>https://image.tmdb.org/t/p/w500/4gpW4MkRI0BB17GHOJzXq0WamDP.jpg</thumbnail>
      <fanart>https://image.tmdb.org/t/p/original/wu0Hb0k6mgAY9q4CI214bELrika.jpg</fanart>
-     <genre>Guerra, Suspense, Drama, Acción</genre></item>
+     <genre>Guerra, Suspense, Drama, Acción</genre></item> 
+	 
 
 <item><link>$doregex[id]</link><regex><name>id</name><expres>file:'(.*)'</expres><page>http://streamin.to/embed-wqkvuwi4q6xu-740x360.html</page>	 <referer>http://streamin.to</referer></regex>         <title>13 Hours The Secret Soldiers of Benghazi 2016 720p vose</title>    <thumbnail>https://image.tmdb.org/t/p/w500/4gpW4MkRI0BB17GHOJzXq0WamDP.jpg</thumbnail>
      <fanart>https://image.tmdb.org/t/p/original/wu0Hb0k6mgAY9q4CI214bELrika.jpg</fanart>
@@ -11,9 +341,6 @@
      <fanart>https://image.tmdb.org/t/p/original/tnJrxidNiBE3kMVxAKYOe5f5Bra.jpg</fanart>
      <genre>Aventura, Familia, Fantasía</genre></item>
 
-<item><link>$doregex[id]</link><regex><name>id</name><expres>file:'(.*)'</expres><page>http://streamin.to/embed-ob7fnghbj1qz-740x360.html</page>	 <referer>http://streamin.to</referer></regex>         <title>Alicia a atraves del Espejo cam latino gnula</title> <thumbnail>https://image.tmdb.org/t/p/w500/v3Sn2BXCWglFFDUaHWHifIhyDnv.jpg</thumbnail>
-     <fanart>https://image.tmdb.org/t/p/original/tnJrxidNiBE3kMVxAKYOe5f5Bra.jpg</fanart>
-     <genre>Aventura, Familia, Fantasía</genre></item>
 
 <item><link>$doregex[id]</link><regex><name>id</name><expres>file:'(.*)'</expres><page>http://streamin.to/embed-thyyrbrxlo8y-740x360.html</page>	 <referer>http://streamin.to</referer></regex>         <title>Angry Birds 2016 tshq latino gnula v2</title>    <thumbnail>https://image.tmdb.org/t/p/w500/uiOK4gnD6SV4dM1JiE56KFjHE6r.jpg</thumbnail>
      <fanart>https://image.tmdb.org/t/p/original/3mJcfL2lPfRky16EPi95d2YrKqu.jpg</fanart>
@@ -26,6 +353,11 @@
 <item><link>$doregex[id]</link><regex><name>id</name><expres>file:'(.*)'</expres><page>http://streamin.to/embed-ff0y3mg6zo6v-740x360.html</page>	 <referer>http://streamin.to</referer></regex>         <title>Dioses de Egipto 2016 brrip latino gnula</title>  <thumbnail>https://image.tmdb.org/t/p/w500/5opO2RV5HuXarGSBSYyqCQWxKGv.jpg</thumbnail>
      <fanart>https://image.tmdb.org/t/p/original/xy74anT8ZGhUIGVoalnHrmRDHbQ.jpg</fanart>
      <genre>Acción, Aventura, Fantasía</genre></item>
+	 
+	 <item><link>http://www.spruto.tv/get_file/1/dd16a2aab8e5611332aec1b542820c36/171000/171655/171655.mp4</link><regex><name>id</name><expres>file:'(.*)'</expres><page>http://streamin.to/embed-ff0y3mg6zo6v-740x360.html</page>	 <referer>http://streamin.to</referer></regex>         <title>Dioses de Egipto 2016 brrip latino gnula</title>  <thumbnail>https://image.tmdb.org/t/p/w500/5opO2RV5HuXarGSBSYyqCQWxKGv.jpg</thumbnail>
+     <fanart>https://image.tmdb.org/t/p/original/xy74anT8ZGhUIGVoalnHrmRDHbQ.jpg</fanart>
+     <genre>Acción, Aventura, Fantasía</genre></item>
+	 
 
 <item><link>$doregex[id]</link><regex><name>id</name><expres>file:'(.*)'</expres><page>http://streamin.to/embed-bsjnhykur812-740x360.html</page>	 <referer>http://streamin.to</referer></regex>         <title>Hail Cesar 2016 brrip latino gnula</title> <thumbnail>https://image.tmdb.org/t/p/w500/gGNvjfzdD2IXkyiFZXFffAezlRH.jpg</thumbnail>
      <fanart>https://image.tmdb.org/t/p/original/i6m3KnKYhvnTOO1xrHn6PVR1PoR.jpg</fanart>
