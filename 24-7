@@ -20,7 +20,7 @@
 			<page></page>
 			</regex>
 			<regex>
-			<name>getencoded</name>
+			<name>getencoded</name> 
 			<expres>:mvnkey-(.*)</expres>
 			<page>$doregex[getUrl]</page>
 			</regex>
