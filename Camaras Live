@@ -1,0 +1,141 @@
+#EXTM3U
+#EXTINF:-1,Bulgaria - Plovdiv 1
+rtsp://91.191.213.53:554/live_mpeg4.sdp
+#EXTINF:-1,Bulgaria - Plovdiv 2
+rtsp://91.191.213.52:554/live_mpeg4.sdp
+#EXTINF:-1,Bulgaria - Plovdiv 3
+rtsp://91.191.213.54:554/live_mpeg4.sdp
+#EXTINF:-1,Bulgaria - Varna
+rtsp://91.191.213.49:554/live_mpeg4.sdp
+#EXTINF:-1,Bulgaria - Kiten 1
+rtsp://84.54.158.18:554/live/ch00_0
+#EXTINF:-1,Bulgaria - Karlowo
+rtsp://85.255.175.244:554/h264
+#EXTINF:-1,Canada - Niagara Falls
+rtmp://$OPT:rtmp-raw=rtmp://video4.earthcam.com/fecnetwork swfUrl=http://www.earthcam.com/swf/streaming/client_video_player.swf pageUrl=http://stazionemeteobisignano.altervista.org/webcamlive.php playpath=4559.flv
+#EXTINF:-1,Canada - bonavista newfoundland
+mmsh://live.camstreams.com/csbonavista?MSWMExt=.asf
+#EXTINF:-1,France - Le Crotoy - Le front de la mer
+rtmp://$OPT:rtmp-raw=rtmp://www.vision-environnement.com:1935/live swfUrl=http://www.vision-environnement.com/flowplayer/flowplayer-3.2.15.swf pageUrl=http://www.vision-environnement.com/webcams/player/lecrotoy2.php playpath=lecrotoy2.stream
+#EXTINF:-1,Germany - Hamburg - Panoramic view
+rtmp://$OPT:rtmp-raw=rtmp://stream.livespotting.tv/windit-edge/ swfUrl=http://player.livespotting.tv/static/player/flash/LSPlayerVideo.swf pageUrl=http://player.livespotting.tv/?p=hamburg.de&te=default2&th=default&pl=hamburg.de&ratio=16:9&pla=default&channelID=LS_000000000047 playpath=vv47_720p.stream?sa=hamburg.de
+#EXTINF:-1,Germany - Hamburg - Hafen
+rtmp://$OPT:rtmp-raw=rtmp://stream.livespotting.tv/windit-edge/ swfUrl=http://player.livespotting.tv/static/player/flash/LSPlayerVideo.swf pageUrl=http://player.livespotting.tv/?p=hamburg.de&te=default2&th=default&pl=hamburg.de&ratio=16:9&pla=default&ch=LS_000000000034 playpath=vv34_720p.stream?sa=hamburg.de
+#EXTINF:-1,Germany - Bruecken - Town center
+rtmp://$OPT:rtmp-raw=rtmp://gries.adobemediaserver.it:1935/livepkgr swfUrl=http://leixner.eu/StrobeMediaPlayback.swf pageUrl=http://leixner.eu/flash720.htm playpath=livestream?adbe-live-event=liveevent
+#EXTINF:-1,Germany - Koln - Panoramic view
+rtmp://$OPT:rtmp-raw=rtmp://62.113.221.6/neueDorint-rtp swfUrl=http://www.blitzvideoserver06.de/blitzvideoplayer7.swf pageUrl=http://hotel-koeln-city.dorint.com/en/pictures-videos-webcam/webcam-cologne-city/ playpath=KoelnHeumarkt.stream
+#EXTINF:-1,Germany - Ischgl - Talstation
+rtmp://stream.livespotting.tv/windit-edge//vv128_720p.stream?sa=windit.de
+#EXTINF:-1,Germany - Bielefeld - Stadthalle
+rtmp://stream.livespotting.tv/windit-edge//vv86_720p.stream?sa=windit.de
+#EXTINF:-1,Germany - Neuharlingersiel - Panorama
+rtmp://stream.livespotting.tv/windit-edge//vv14_450p.stream?sa=windit.de
+#EXTINF:-1,Germany - Juister Hof, Juist
+rtmp://stream.livespotting.tv/windit-edge//vv146_720p.stream?sa=windit.de
+#EXTINF:-1,Germany - Potsdam Hotel - Am Luisenplatz
+rtmp://stream.livespotting.tv/windit-edge//vv110_720p.stream?sa=windit.de
+#EXTINF:-1,Germany - Freiburg - Volksbank
+rtmp://stream.livespotting.tv/windit-edge//vv112_720p.stream?sa=windit.de
+#EXTINF:-1,Germany - Würzburg - Hotel Alter Kranen
+rtmp://stream.livespotting.tv/windit-edge//vv70_720p.stream?sa=windit.de
+#EXTINF:-1,Germany - Heidelberg - PundM
+rtmp://stream.livespotting.tv/windit-edge//vv122_720p.stream?sa=windit.de
+#EXTINF:-1,Germany - Augsburg - Knigsplatz
+rtmp://stream.livespotting.tv/windit-edge//vv39_450p.stream?sa=windit.de
+#EXTINF:-1,Germany - Warnemünde - Am Strom 72
+rtmp://stream.livespotting.tv/windit-edge//vv16_720p.stream?sa=windit.de
+#EXTINF:-1,Germany - Ulm - Hotel Blaubeurer Tor
+rtmp://stream.livespotting.tv/windit-edge//vv66_720p.stream?sa=windit.de
+#EXTINF:-1,Germany - Aachen - Drehturm Belvedere Lousberg
+rtmp://stream.livespotting.tv/windit-edge//vv102_720p.stream?sa=windit.de
+#EXTINF:-1,Germany - Saarbrücken - La Residence
+rtmp://stream.livespotting.tv/windit-edge//vv68_720p.stream?sa=windit.de
+#EXTINF:-1,Germany - Bremerhaven - Hotel Atlantic Sail City
+rtmp://stream.livespotting.tv/windit-edge//vv106_720p.stream?sa=windit.de
+#EXTINF:-1,Germany - Bremen - Kontorhaus
+rtmp://stream.livespotting.tv/windit-edge//vv134_720p.stream?sa=windit.de
+#EXTINF:-1,Germany - Düsseldorf Airport cam1
+rtmp://stream-5gw.1000eyes.de/rtplive//dus0600.stream
+#EXTINF:-1,Germany - Düsseldorf Airport cam2
+rtmp://stream-5gw.1000eyes.de/rtplive//dus8a21.stream
+#EXTINF:-1,Germany - Düsseldorf Airport cam4
+rtmp://stream-5gw.1000eyes.de/rtplive//dus275d.stream
+#EXTINF:-1,Iceland - Jokulsarlon
+rtmp://$OPT:rtmp-raw=rtmp://149.3.141.18/mila/ swfUrl=http://www.livefromiceland.is/files/player.swf pageUrl=http://www.livefromiceland.is/webcams/jokulsarlon/ playpath=jokulsarlon.stream
+#EXTINF:-1,Nederland - Blokzijl - haven
+rtmp://$OPT:rtmp-raw=rtmp://streaming3.webcam.nl:80/blokzijl playpath=blokzijl.stream swfUrl=http://hdtv.webcam.nl/blokzijl/player.swf pageUrl=http://hdtv.webcam.nl/blokzijl/
+#EXTINF:-1,Nederland - Zierikzee
+rtmp://$OPT:rtmp-raw=rtmp://streaming4.webcam.nl:80/zierikzee01 playpath=zierikzee01.stream swfUrl=http://hdtv.webcam.nl/zierikzee/player.swf pageUrl=http://hdtv.webcam.nl/zierikzee/
+#EXTINF:-1,Nederland - Sheveningen
+rtsp://b1.dnsdojo.com:1935/live/sys3.stream
+#EXTINF:-1,Norway - Ulriken panorama  X
+rtmp://$OPT:rtmp-raw=rtmp://79.125.15.213:1935/livecam swfUrl=http://frontend.xstream.dk/btno/resources/swf/standardPlayer_6.14.7.swf pageUrl=http://www.bt.no/kamera/Ulriken-panorama-2632914.html playpath=ulriken3
+#EXTINF:-1,Poland - Krakov - Wawel Castle
+rtmp://$OPT:rtmp-raw=rtmp://h264.webcamera.pl/krakow_cam_4c3e37 swfUrl=http://webstream1.webcamera.pl/swf/player.swf pageUrl=http://www.krakow.pl/%20/1849,artykul,wawel_i_zakole_wisly_.html playpath=krakow_cam_4c3e37.stream
+#EXTINF:-1,Russia - San Peterburg
+http://195.154.182.204:8083/camera1/h264
+#EXTINF:-1,Russia - San Peterburg
+http://195.154.182.204:8083/camera15/h264
+#EXTINF:-1,Russia - San Peterburg
+http://195.154.182.204:8083/camera28/h264
+#EXTINF:-1,Scotland - Shetland Islands - stream 2
+rtmp://$OPT:rtmp-raw=rtmp://s4.zetcast.net/webcams/ playpath=stream2 swfUrl=http://p.jwpcdn.com/6/10/jwplayer.flash.swf pageUrl=http://visit.shetland.org/shetland-webcams
+#EXTINF:-1,Scotland - Shetland Islands - stream 4
+rtmp://$OPT:rtmp-raw=rtmp://s4.zetcast.net/webcams/ playpath=stream4 swfUrl=http://p.jwpcdn.com/6/10/jwplayer.flash.swf pageUrl=http://visit.shetland.org/shetland-webcams
+#EXTINF:-1,Scotland - Shetland Islands - stream 5
+rtmp://$OPT:rtmp-raw=rtmp://s4.zetcast.net/webcams/ playpath=stream5 swfUrl=http://p.jwpcdn.com/6/10/jwplayer.flash.swf pageUrl=http://visit.shetland.org/shetland-webcams
+#EXTINF:-1,Scotland - Shetland Islands - stream 6
+rtmp://$OPT:rtmp-raw=rtmp://s4.zetcast.net/webcams/ playpath=stream6 swfUrl=http://p.jwpcdn.com/6/10/jwplayer.flash.swf pageUrl=http://visit.shetland.org/shetland-webcams
+#EXTINF:-1,Scotland - Shetland Islands - stream 11
+rtmp://$OPT:rtmp-raw=rtmp://s4.zetcast.net/webcams/ playpath=stream11 swfUrl=http://p.jwpcdn.com/6/10/jwplayer.flash.swf pageUrl=http://visit.shetland.org/shetland-webcams
+#EXTINF:-1,Scotland - Shetland Islands - stream 12
+rtmp://$OPT:rtmp-raw=rtmp://s4.zetcast.net/webcams/ playpath=stream12 swfUrl=http://p.jwpcdn.com/6/10/jwplayer.flash.swf pageUrl=http://visit.shetland.org/shetland-webcams
+#EXTINF:-1,Scotland - Shetland Islands - stream 14
+rtmp://$OPT:rtmp-raw=rtmp://s4.zetcast.net/webcams/ playpath=stream14 swfUrl=http://p.jwpcdn.com/6/10/jwplayer.flash.swf pageUrl=http://visit.shetland.org/shetland-webcams
+#EXTINF:-1,Scotland - Shetland Islands - stream 16
+rtmp://$OPT:rtmp-raw=rtmp://s4.zetcast.net/webcams/ playpath=stream16 swfUrl=http://p.jwpcdn.com/6/10/jwplayer.flash.swf pageUrl=http://visit.shetland.org/shetland-webcams
+#EXTINF:-1,Switzerland - Lugano - Stazione
+rtmp://rtmp.infomaniak.ch/livecast/webcam04luganoch
+#EXTINF:-1,Switzarland - Lugano - Skatepark
+rtmp://rtmp.infomaniak.ch/livecast/webcam07luganoch
+#EXTINF:-1,Switzerland - Lugano - Monte Bre - Ristorante Vetta
+rtmp://rtmp.infomaniak.ch/livecast/webcam08luganoch
+#EXTINF:-1,Switzerland - Zürich Zoo Cam 1
+rtmp://stream.livespotting.tv/windit-edge//vv78_720p.stream?sa=windit.de
+#EXTINF:-1,Turkey AYDIN/Nazilli TR Belediye Meydani
+http://5.2.83.53:1935/nazillibelediyesi/belediye1.stream/hasbahca.m3u8
+#EXTINF:-1,Turkey AYDIN/Nazilli TR Istasyon Meydani
+http://5.2.83.53:1935/nazillibelediyesi/belediye2.stream/hasbahca.m3u8
+#EXTINF:-1,UK - Bognor Regis beach
+rtmp://$OPT:rtmp-raw=rtmp://video4.earthcam.com:1935/fecnetwork swfUrl=http://www.earthcam.com/swf/streaming/stream_viewer_v3.swf pageUrl=http://www.bognorregisbeach.co.uk/live playpath=5288.flv
+#EXTINF:-1,UK - Oxford - camera 1
+rtmp://$OPT:rtmp-raw=rtmp://163.1.201.45/weecam/ playpath=media.amp swfUrl=http://webcam.oii.ox.ac.uk/player.swf pageUrl=http://webcam.oii.ox.ac.uk/camera1.cfm
+#EXTINF:-1,UK - Oxford - camera 2
+rtmp://$OPT:rtmp-raw=rtmp://163.1.201.45/rtplive/ swfUrl=http://webcam.oii.ox.ac.uk/player.swf pageUrl=http://webcam.oii.ox.ac.uk/camera2.cfm playpath=media.amp
+#EXTINF:-1,UK - Oxford - camera 3
+rtmp://$OPT:rtmp-raw=rtmp://163.1.201.45/webcam/ swfUrl=http://webcam.oii.ox.ac.uk/player.swf pageUrl=http://webcam.oii.ox.ac.uk/camera3.cfm playpath=media.amp
+#EXTINF:-1,UK - Ammanford - Wales
+mmsh://live.camstreams.com/csWelshjohn?MSWMExt=.asf
+#EXTINF:-1,UK - London - Abbey Road
+rtmp://$OPT:rtmp-raw=rtmp://video4.earthcam.com/fecnetwork swfUrl=http://www.earthcam.com/swf/streaming/client_video_player.swf pageUrl=http://www.earthcam.com/clients/abbeyroad/embed.php?mode=live&width=732&width=717 playpath=AbbeyRoadHD1.flv
+#EXTINF:-1,UK - London - Paddington - Sussex Gardens
+rtmp://$OPT:rtmp-raw=rtmp://144.76.30.147:1935/rtplive?doPlay=AhZaex6icamvista2004 playpath=darlington.stream swfUrl=http://www.camvista.com/player/flowplayer.commercial-3.2.7.swf
+#EXTINF:-1,USA - New York - Times Square - 47 & Brodway
+rtmp://$OPT:rtmp-raw=rtmp://video4.earthcam.com:80/fecnetwork playpath=hdtimes10.flv swfUrl=http://www.earthcam.com/swf/streaming/stream_viewer_v3.swf?20140902 pageUrl=http://www.earthcam.com/usa/newyork/timessquare/?cam=tsrobo1
+#EXTINF:-1,USA - Oak Harbor Washinghton
+rtmp://$OPT:rtmp-raw=rtmp://video4.earthcam.com:80/fecnetwork playpath=6172.flv  swfUrl=http://www.earthcam.com/swf/streaming/stream_viewer_v3.swf?20140902 pageUrl=http://www.earthcam.com/usa/washington/oakharbor/?cam=oakharbor
+#EXTINF:-1,USA - Portland - Oregon - Columbia River
+mmsh://live.camstreams.com/csZappers?MSWMExt=.asf
+#EXTINF:-1,USA - Yellowstone National Park - Old Faithful Geyser
+rtmp://$OPT:rtmp-raw=rtmp://cs3.pixelcaster.com/live swfUrl=http://www.nps.gov/features/yell/webcam/flowplayer.commercial-3.2.18.swf pageUrl=http://www.nps.gov/features/yell/webcam/oldfaithfulstreaming.html playpath=faithful.stream
+#EXTINF:-1,USA - California - San Francisco
+rtmp://$OPT:rtmp-raw=rtmp://video4.earthcam.com:1935/fecnetwork swfUrl=http://www.earthcam.com/swf/streaming/stream_viewer_v3.swf pageUrl=http://www.earthcam.com/usa/california/sanfrancisco/ playpath=6603.flv
+#EXTINF:-1,USA - Louisiana - New Orleans - Bourbon Street
+rtmp://$OPT:rtmp-raw=rtmp://video4.earthcam.com:1935/fecnetwork swfUrl=http://www.earthcam.com/swf/streaming/stream_viewer_v3.swf pageUrl=http://www.earthcam.com/usa/louisiana/neworleans/bourbonstreet/?cam=bourbonstreet playpath=4280.flv
+#EXTINF:-1,USA - Missouri - St. Louis Arch
+rtmp://$OPT:rtmp-raw=rtmp://video4.earthcam.com:1935/fecnetwork swfUrl=http://www.earthcam.com/swf/streaming/stream_viewer_v3.swf pageUrl=http://www.earthcam.com/usa/missouri/stlouis/?cam=arch_riverview playpath=meprd_garch.flv
+#EXTINF:-1,USA - New Hampshire - Hampton beach
+rtmp://$OPT:rtmp-raw=rtmp://video4.earthcam.com:1935/fecnetwork swfUrl=http://www.earthcam.com/swf/streaming/stream_viewer_v3.swf pageUrl=http://www.earthcam.com/usa/newhampshire/hamptonbeach/?cam=hamptonbeach playpath=hampton-beach-cam.flv
+#EXTINF:-1,USA - New York - 5th Avenue
+rtmp://$OPT:rtmp-raw=rtmp://video4.earthcam.com:1935/fecnetwork swfUrl=http://www.earthcam.com/swf/streaming/stream_viewer_v3.swf pageUrl=http://www.earthcam.com/usa/newyork/fifthave/?cam=nyc5th_str playpath=fridays_5th.flv
