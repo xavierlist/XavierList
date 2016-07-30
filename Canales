@@ -2237,14 +2237,14 @@ http://latino-webtv.ml/live/353_05.m3u8|User-Agent=iPad&amp;Referer=http://latin
 		
 		<item>
 <title>[COLOR deepskyblue]  •[/COLOR]    [COLOR white][B]ABDA VegaTV[/B] [/COLOR]    </title>
-<thumbnail>http://adryanlist.org/adryan/img/tp.jpg</thumbnail><fanart>http://adryanlist.org/fanart.jpg</fanart>
+<thumbnail>https://3.bp.blogspot.com/-4JWd8lB_1EY/V0oBw6XzPtI/AAAAAAAAACk/gytV93rXRNEaHCItq8OZKfxEGrocVQNnQCLcB/s320/Reivaxm.jpg</thumbnail><fanart>https://2.bp.blogspot.com/-Tm5BArpH94E/V0r07cVVpnI/AAAAAAAAAC4/GsBn5AjZvN8YIqdpMW3sFH-KDS-sMC4LgCLcB/s1600/fanart.jpg</fanart>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
 <listrepeat><![CDATA[
 	<title>[makelist.param1]</title>
 	<link>[makelist.param2]</link>
-	<thumbnail>http://adryanlist.org/adryan/img/tp.jpg</thumbnail><fanart>http://adryanlist.org/fanart.jpg</fanart>
+	<thumbnail>https://3.bp.blogspot.com/-4JWd8lB_1EY/V0oBw6XzPtI/AAAAAAAAACk/gytV93rXRNEaHCItq8OZKfxEGrocVQNnQCLcB/s320/Reivaxm.jpg</thumbnail><fanart>https://2.bp.blogspot.com/-Tm5BArpH94E/V0r07cVVpnI/AAAAAAAAAC4/GsBn5AjZvN8YIqdpMW3sFH-KDS-sMC4LgCLcB/s1600/fanart.jpg</fanart>
 ]]></listrepeat>
 <expres>#EXTINF:.*,.*,(.*?)\n(.*)</expres>
 <page>http://playhdlatino.com/abdavega/lista.xml</page>
