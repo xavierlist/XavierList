@@ -1,8 +1,13 @@
-<item><link>$doregex[id]</link><regex><name>id</name><expres>file:'(.*)'</expres><page>http://streamin.to/embed-v6z88v8gpyzi-740x360.html</page>	 <referer>http://streamin.to</referer></regex>        <title>Batman vs. Superman: El origen de la justicia BRip</title>
-    <thumbnail>https://image.tmdb.org/t/p/w500/cGOPbv9wA5gEejkUN892JrveARt.jpg</thumbnail>
-     <fanart>https://image.tmdb.org/t/p/original/vsjBeMPZtyB7yNsYY56XYxifaQZ.jpg</fanart>
-     <genre>Acción, Aventura, Fantasía</genre>          </item>
+  <item><link>$doregex[id]</link><regex><name>id</name><expres>file:'(.*)'</expres><page></page>	 <referer>http://streamin.to</referer></regex>        <title>*Algunas Peliculas Se Repiten Para Tenes Mas Posibilidades De Verla*</title>
+    <thumbnail></thumbnail>
+     <fanart></fanart>
+     <genre></genre>          </item>
 
+  
+  
+  
+ 
+  
 <item><link>$doregex[id]</link><regex><name>id</name><expres>file:'(.*)'</expres><page>http://streamin.to/embed-jqxqgupykrjo-740x360.html</page>	 <referer>http://streamin.to</referer></regex>         <title>Un Espía y Medio - HCS Audio Latino</title>
     <thumbnail>https://image.tmdb.org/t/p/w500/q7GOSxRsBLTJysmAEjFoQZfScsq.jpg</thumbnail>
      <fanart>https://image.tmdb.org/t/p/original/nX64YARJo4OugPTSVuvFwZzcqM4.jpg</fanart>
