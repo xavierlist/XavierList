@@ -1,6 +1,19 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
-
+<channel>
+    <name>[COLOR=skyblue]-----[/COLOR][COLOR=red]► E N T R E T E N I M I E N T O  [COLOR gray]Latino: Fox • Warner • Axn • Telemundo • Univision • Unimas • Space • HBO  • Series 24/7 • Los Simpsons • Dragon Ball • Saint Seya : Caballeros del Zodiaco • El Chavo • Southpark • La hora de la Aventura •   [/COLOR][/COLOR][COLOR=skyblue]-----[/COLOR]</name>
+    <thumbnail>https://4.bp.blogspot.com/-UDcBF0Rmzt4/V0r1Z2wiY6I/AAAAAAAAAC8/PSPBKn4-__ofUAjrRfkGRutMvWWLKCunACLcB/s1600/icon.jpg</thumbnail>
+    <fanart>https://2.bp.blogspot.com/-Tm5BArpH94E/V0r07cVVpnI/AAAAAAAAAC4/GsBn5AjZvN8YIqdpMW3sFH-KDS-sMC4LgCLcB/s1600/fanart.jpg</fanart>
+        <items>
+           <items_info> <!-- this is opitonal -->
+      <title>Adryan List </title>
+      <genre>Tv Live</genre>
+      <description>: Lista de Canales para el Livestreamspro :</description>
+      <thumbnail>https://4.bp.blogspot.com/-UDcBF0Rmzt4/V0r1Z2wiY6I/AAAAAAAAAC8/PSPBKn4-__ofUAjrRfkGRutMvWWLKCunACLcB/s1600/icon.jpg</thumbnail>
+      <fanart>https://2.bp.blogspot.com/-Tm5BArpH94E/V0r07cVVpnI/AAAAAAAAAC4/GsBn5AjZvN8YIqdpMW3sFH-KDS-sMC4LgCLcB/s1600/fanart.jpg</fanart>
+      <date>03.02.2015</date>
+      <credits>adryan</credits>
+    </items_info>
 	
 	<item>
  <title>[COLOR skyblue]/-/-/-/-/-/-/-/-/-/-   [COLOR red]ENTRETENIMIENTO[/COLOR]  /-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-[/COLOR]</title>
