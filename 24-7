@@ -1,173 +1,79 @@
-#EXTM3U
-            
-#EXTINF:-1 tvg-logo="" group-title="BBTS 24/7 TV Series",[COLOR gray][I][B]------- SERIES 24/7 -------[/B][/I][/COLOR]
-http://xbmcbbts.weebly.com/
-
-#EXTINF:-1 tvg-logo="http://www.weebly.com/uploads/3/1/6/0/31603209/3272405.png", 2 Broke Girls.
-rtmp://198.27.75.99/app playpath=2bg01 swfUrl=http://www.tgun.tv/lock/player.swf live=1 pageUrl=http://www.tgun.tv/menus/players/playerindex5.php?2bg01/
-
-#EXTINF:-1 tvg-logo="http://www.weebly.com/uploads/3/1/6/0/31603209/7255194.png", American dad (HD).
-http://62.210.76.216:8080/hls/americanhdx.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.weebly.com/uploads/3/1/6/0/31603209/1401790.png", ANGER MANAGEMENT.
-rtmp://198.27.75.99/app/ playpath=anger02 swfUrl=http://tgun.tv/jwplayer/player.swf pageUrl=http://tgun.tv/shows/ch3 playpath=anger02
-
-#EXTINF:-1 tvg-logo="http://www.weebly.com/uploads/3/1/6/0/31603209/5864988.png", Aqua Teen Hunger Force (HD).
-http://62.210.76.216:8080/hls/aqua.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.weebly.com/uploads/3/1/6/0/31603209/1405139.png", Arrested Development.
-rtmp://198.27.75.99/app playpath=arrested01 swfUrl=http://www.tgun.tv/lock/player.swf live=1 pageUrl=http://www.tgun.tv/menus/players/playerindex5.php?2bg01/
-
-#EXTINF:-1 tvg-logo="http://www.weebly.com/uploads/3/1/6/0/31603209/145478.png", Archer (HD).
-http://62.210.76.216:8080/hls/archerhd.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.weebly.com/uploads/3/1/6/0/31603209/2133628.png", Becker.
-rtmp://198.27.75.99/app playpath=beck swfUrl=http://www.tgun.tv/lock/player.swf live=1 pageUrl=http://www.tgun.tv/menus/players/playerindex5.php?2bg01/
-
-#EXTINF:-1 tvg-logo="http://www.weebly.com/uploads/3/1/6/0/31603209/1882935.png", Bobs Burgers (HD).
-http://62.210.76.216:8080/hls/bobshdx.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.weebly.com/uploads/3/1/6/0/31603209/2769844.png", BreAkinG BaD (HD).
-http://62.210.76.216:8080/hls/bb.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.weebly.com/uploads/3/1/6/0/31603209/4404608.png", BURN NOTICE.
-rtmp://192.99.38.122/app/ playpath=burnnotice03 swfUrl=http://www.tgun.tv/lock/player.swf pageUrl=http://tgun.tv/shows/ch1 playpath=burnnotice03
-
-#EXTINF:-1 tvg-logo="http://www.weebly.com/uploads/3/1/6/0/31603209/4672488.png", Cheers.
-rtmp://198.27.75.99/app playpath=cheers01 swfUrl=http://www.tgun.tv/lock/player.swf live=1 pageUrl=http://www.tgun.tv/menus/players/playerindex5.php?2bg01/
 
 
-#EXTINF:-1 tvg-logo="http://www.weebly.com/uploads/3/1/6/0/31603209/6820739.png", Community.
-rtmp://198.27.75.99/app playpath=community01 swfUrl=http://www.tgun.tv/lock/player.swf live=1 pageUrl=http://www.tgun.tv/menus/players/playerindex5.php?2bg01/
+<item>
+<title>[COLOR lime]  *[/COLOR][COLOR white][B] TV pelis online 24/7vvv[/B][/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>[COLOR dodgerblue]AR[COLOR white]GEN[/COLOR]TO[/COLOR][COLOR lime]*[/COLOR][B][COLOR white][makelist.param2][/COLOR][/B]
+<listrepeat><![CDATA[
+<item>
+			<title>[COLOR dodgerblue]AR[COLOR white]GEN[/COLOR]TO[/COLOR][COLOR lime]*[/COLOR][B][COLOR white][makelist.param2][/COLOR][/B]</title>
+			<link>rtmp://$doregex[get_ip]/live app=live?$doregex[get_key] playpath=live_[makelist.param1]  swfUrl=http://vaughnlive.tv$doregex[get_channel] pageUrl=http://vaughnlive.tv/  live=true</link>
+<regex>
+<name>get_ip</name>
+<expres>([^;]*?);:</expres>    
+<page>http://mvn.vaughnsoft.net/video/edge/mnv-live_[makelist.param1]?0.1.1.759_190-190-0.5933709153905511</page>                               
+<referer>http://vaughnlive.tv/</referer>
+<connection>keep-alive</connection>
+<agent>Mozilla/5.0</agent>
+<accept>Accept-Encoding=gzip,deflate,text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8</accept>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>get_key</name>
+<expres>mvnkey-(.*?);</expres>  
+<page>http://mvn.vaughnsoft.net/video/edge/mnv-live_[makelist.param1]?0.1.1.759_190-190-0.5933709153905511</page>                              
+<referer>http://vaughnlive.tv/</referer>
+<connection>keep-alive</connection>
+<agent>Mozilla/5.0</agent>
+<accept>Accept-Encoding=gzip,deflate,text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8</accept>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>get_channel</name>
+<expres>embedSWF\(\"(.*?)"</expres>    
+<page>http://vaughnlive.tv/[makelist.param1]</page>                             
+<referer>http://vaughnlive.tv/</referer>
+<connection>keep-alive</connection>
+<agent>Mozilla/5.0</agent>
+<accept>Accept-Encoding=gzip,deflate,text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8</accept>
+<cookieJar></cookieJar>
+</regex>
+			<thumbnail>http://cdn.vaughnsoft.com/vaughnsoft/vaughn/img_profiles/[makelist.param2]_320.jpg</thumbnail></item>
+]]></listrepeat>
+<expres>a href="/(.*?)"[\w\W\s]{0,22}browseTxt">(.*?)<</expres>
+<page>http://vaughnlive.tv/browse/espanol</page>
+<agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent>
+<referer></referer>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://callawayplumbinganddrains.ca/wp-content/uploads/2014/02/Internet-Network-Marketing-24-7.png</thumbnail>
+<fanart>https://dl.dropboxusercontent.com/s/oe11jpn1k2yj99g/BANNER.jpg</fanart>
+</item> 
 
-#EXTINF:-1 tvg-logo="http://www.weebly.com/uploads/3/1/6/0/31603209/6167014.png", Cops Tv series.
-rtmp://198.27.75.99/app playpath=cops01 swfUrl=http://www.tgun.tv/lock/player.swf live=1 pageUrl=http://www.tgun.tv/menus/players/playerindex5.php?2bg01/
 
-#EXTINF:-1 tvg-logo="http://www.weebly.com/uploads/3/1/6/0/31603209/361987.png", Curb Your Enthusiasm.
-rtmp://192.99.38.122/app/ playpath=curbs03 swfUrl=http://www.tgun.tv/lock/player.swf pageUrl=http://tgun.tv/shows/ch1 playpath=curbs03
 
-#EXTINF:-1 tvg-logo="http://www.weebly.com/uploads/3/1/6/0/31603209/3707704.png", Eastbound & Down.
-rtmp://198.27.75.99/app playpath=east swfUrl=http://www.tgun.tv/lock/player.swf pageUrl=http://www.tgun.tv/menus/players/playerindex6.php?east live=true
 
-#EXTINF:-1 tvg-logo="http://www.weebly.com/uploads/3/1/6/0/31603209/4321881.png", Family guy (HD).
-http://62.210.76.216:8080/hls/familyguyhdx.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.weebly.com/uploads/3/1/6/0/31603209/4321881.png", Family guy.
-rtmp://192.99.38.122/app/ playpath=familyguy02 swfUrl=http://www.tgun.tv/lock/player.swf pageUrl=http://tgun.tv/shows/ch1
 
-#EXTINF:-1 tvg-logo="http://www.weebly.com/uploads/3/1/6/0/31603209/4026233.png", Friends.
-rtmp://192.99.38.122/app playpath=friends02 swfUrl=http://www.tgun.tv/locked/player.swf live=1 pageUrl=http://www.tgun.tv/embeds/index.php?friends02&widthid=600&heightid=480
 
-#EXTINF:-1 tvg-logo="http://www.weebly.com/uploads/3/1/6/0/31603209/4168427.png", Futurama.
-rtmp://198.27.75.99/app playpath=2501 swfUrl=http://www.tgun.tv/lock/player.swf live=1 pageUrl=http://www.tgun.tv/menus/players/playerindex5.php?2bg01/
 
-#EXTINF:-1 tvg-logo="http://www.weebly.com/uploads/3/1/6/0/31603209/8572981.png", Futurama (HD).
-http://62.210.76.216:8080/hls/futuramahdx.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.weebly.com/uploads/3/1/6/0/31603209/1452941.png", Game of Thrones (HD).
-http://62.210.76.216:8080/hls/gothd.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.weebly.com/uploads/3/1/6/0/31603209/7227689.png", Home Improvement.
-rtmp://198.27.75.99/app playpath=home01 swfUrl=http://www.tgun.tv/lock/player.swf live=1 pageUrl=http://www.tgun.tv/menus/players/playerindex5.php?2bg01/
 
-#EXTINF:-1 tvg-logo="http://www.weebly.com/uploads/3/1/6/0/31603209/5831276.png", House Of Cards (HD).
-http://62.210.76.216:8080/hls/housecard.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.weebly.com/uploads/3/1/6/0/31603209/7544994.png", It's Always Sunny IN Philadelphia.
-rtmp://192.99.38.122/app/ playpath=sunny02 swfUrl=http://www.tgun.tv/lock/player.swf pageUrl=http://tgun.tv/shows/ch1 playpath=sunny02
 
-#EXTINF:-1 tvg-logo="http://www.weebly.com/uploads/3/1/6/0/31603209/6198357.png", Just Shoot Me.
-rtmp://198.27.75.99/app playpath=shootme swfUrl=http://www.tgun.tv/lock/player.swf live=1 pageUrl=http://www.tgun.tv/menus/players/playerindex5.php?2bg01/
 
-#EXTINF:-1 tvg-logo="http://www.weebly.com/uploads/3/1/6/0/31603209/4070661.png", King Of The Hill (HD).
-http://62.210.76.216:8080/hls/kinghillhd.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.weebly.com/uploads/3/1/6/0/31603209/5681932.png", Lost (HD).
-http://62.210.76.216:8080/hls/lost.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.weebly.com/uploads/3/1/6/0/31603209/2747001.png", Mad Men (HD).
-http://62.210.76.216:8080/hls/madmen.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.weebly.com/uploads/3/1/6/0/31603209/2558536.png", Malcolm In The Middle.
-rtmp://198.27.75.99/app playpath=malcolm swfUrl=http://www.tgun.tv/lock/player.swf pageUrl=http://www.tgun.tv/menus/players/playerindex6.php?malcolm live=true
 
-#EXTINF:-1 tvg-logo="http://www.weebly.com/uploads/3/1/6/0/31603209/6618272.png", Man VS wild (HD).
-http://195.154.188.161/hls/manwildus.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.weebly.com/uploads/3/1/6/0/31603209/3309591.png", Married With Children.
-rtmp://192.99.38.122/app/ playpath=mwc02 swfUrl=http://www.tgun.tv/lock/player.swf pageUrl=http://tgun.tv/shows/ch1 playpath=mwc02
 
-#EXTINF:-1 tvg-logo="http://www.weebly.com/uploads/3/1/6/0/31603209/5514548.png", Modern Famil.
-rtmp://198.27.75.99/app/ playpath=mfamily02 swfUrl=http://www.tgun.tv/lock/player.swf pageUrl=http://tgun.tv/shows/ch1
 
-#EXTINF:-1 tvg-logo="http://www.weebly.com/uploads/3/1/6/0/31603209/1867529.png", HD Movies 24/7.
-rtmp://62.210.76.216/live2/moviehd playpath=moviehd swfUrl=http://releases.flowplayer.org/5.4.6/flowplayer.swf live=1 pageUrl=http://www.stream4free.eu/movies-hd
 
-#EXTINF:-1 tvg-logo="http://www.weebly.com/uploads/3/1/6/0/31603209/6254837.png", New Girl.
-rtmp://198.27.75.99/app playpath=ng swfUrl=http://www.tgun.tv/lock/player.swf pageUrl=http://www.tgun.tv/menus/players/playerindex6.php?ng live=true
 
-#EXTINF:-1 tvg-logo="http://www.weebly.com/uploads/3/1/6/0/31603209/4997590.png", News Radio.
-rtmp://198.27.75.99/app playpath=nradio swfUrl=http://www.tgun.tv/lock/player.swf pageUrl=http://www.tgun.tv/menus/players/playerindex6.php?nradio live=true
 
-#EXTINF:-1 tvg-logo="http://www.weebly.com/uploads/3/1/6/0/31603209/9062327.png", Northern Exposure.
-rtmp://198.27.75.99/app playpath=northern swfUrl=http://www.tgun.tv/lock/player.swf pageUrl=http://www.tgun.tv/menus/players/playerindex6.php?northern live=true
 
-#EXTINF:-1 tvg-logo="http://www.weebly.com/uploads/3/1/6/0/31603209/6253257.png", OZ.
-rtmp://198.27.75.99/app playpath=oz02 swfUrl=http://www.tgun.tv/locked/player.swf live=1 pageUrl=http://www.tgun.tv playpath=oz02
 
-#EXTINF:-1 tvg-logo="http://www.weebly.com/uploads/3/1/6/0/31603209/8422869.png", Seinfeld.
-rtmp://198.27.75.99/app playpath=seinfeld02 swfUrl=http://www.tgun.tv/lock/player.swf live=1 pageUrl=http://www.tgun.tv/menus/players/playerindex5.php?2bg01/
 
-#EXTINF:-1 tvg-logo="http://www.weebly.com/uploads/3/1/6/0/31603209/5789462.png", South Park (HD).
-http://62.210.76.216:8080/hls/southparkhdx.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.weebly.com/uploads/3/1/6/0/31603209/7978549.png", STAR TREK.
-rtmp://192.99.38.122/app/ playpath=tng02 swfUrl=http://tgun.tv/jwplayer/player.swf pageUrl=http://tgun.tv/shows/ch1 playpath=tng02
-
-#EXTINF:-1 tvg-logo="http://www.weebly.com/uploads/3/1/6/0/31603209/3222944.png", Sons of Anarchy (HD).
-http://62.210.76.216:8080/hls/soa.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.weebly.com/uploads/3/1/6/0/31603209/8114793.png", Third Rock From The Sun.
-rtmp://198.27.75.99/app playpath=rock swfUrl=http://www.tgun.tv/lock/player.swf live=1 pageUrl=http://www.tgun.tv/menus/players/playerindex5.php?2bg01/
-
-#EXTINF:-1 tvg-logo="http://www.weebly.com/uploads/3/1/6/0/31603209/5236491.png", The Drew Carey Show.
-rtmp://198.27.75.99/app playpath=drewcarey swfUrl=http://www.tgun.tv/lock/player.swf pageUrl=http://www.tgun.tv/menus/players/playerindex6.php?drewcarey live=true
-
-#EXTINF:-1 tvg-logo="http://www.weebly.com/uploads/3/1/6/0/31603209/9225520.png", That 70s Show.
-rtmp://198.27.75.99/app playpath=that70sshow swfUrl=http://www.tgun.tv/lock/player.swf pageUrl=http://www.tgun.tv/menus/players/playerindex6.php?that70sshow live=true
-
-#EXTINF:-1 tvg-logo="http://www.weebly.com/uploads/3/1/6/0/31603209/1461555.png", The Big Bang Theory (HD).
-http://62.210.76.216:8080/hls/bigbanghd.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.weebly.com/uploads/3/1/6/0/31603209/7091564.png", The Cleveland Show (HD).
-http://62.210.76.216:8080/hls/clevelandhdx.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.weebly.com/uploads/3/1/6/0/31603209/8629458.png", The Simpsons.
-rtmp://198.27.75.99/app playpath=2502 swfUrl=http://www.tgun.tv/lock/player.swf live=1 pageUrl=http://www.tgun.tv/menus/players/playerindex5.php?2bg01/
-
-#EXTINF:-1 tvg-logo="http://www.weebly.com/uploads/3/1/6/0/31603209/8629458.png", The Simpsons (HD).
-http://62.210.76.216:8080/hls/simpsonshdx.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.weebly.com/uploads/3/1/6/0/31603209/8444104.png", The Sopranos.
-rtmp://198.27.75.99/app playpath=sopranos swfUrl=http://www.tgun.tv/lock/player.swf pageUrl=http://www.tgun.tv/menus/players/playerindex6.php?sopranos live=true
-
-#EXTINF:-1 tvg-logo="http://www.weebly.com/uploads/3/1/6/0/31603209/1427279.png", The Walking Dead.
-rtmp://198.27.75.99/app playpath=twd02 swfUrl=http://www.tgun.tv/locked/player.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindex5.php?twd02
-
-#EXTINF:-1 tvg-logo="http://www.weebly.com/uploads/3/1/6/0/31603209/1427279.png", The Walking Dead (HD).
-http://62.210.76.216:8080/hls/walkingdead.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.weebly.com/uploads/3/1/6/0/31603209/6154763.png", Two & a Half Men.
-rtmp://192.99.38.122/app playpath=men02 swfUrl=http://www.tgun.tv/locked/player.swf live=1 pageUrl=http://www.tgun.tv/embeds/index.php?men02&widthid=600&heightid=450
-
-#EXTINF:-1 tvg-logo="6045435.png", Vikings.
-rtmp://198.27.75.99/app/ playpath=vikings02 swfUrl=http://www.tgun.tv/lock/player.swf pageUrl=http://tgun.tv/shows/ch1 playpath=vikings02
-
-#EXTINF:-1 tvg-logo="http://www.weebly.com/uploads/3/1/6/0/31603209/7779502.png", Weeds (HD).
-http://62.210.76.216:8080/hls/weedshd.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.weebly.com/uploads/3/1/6/0/31603209/9021223.png", Will & Grace.
-rtmp://198.27.75.99/app playpath=wag swfUrl=http://www.tgun.tv/lock/player.swf live=1 pageUrl=http://www.tgun.tv/menus/players/playerindex5.php?2bg01/
-
-#EXTINF:-1 tvg-logo="http://www.weebly.com/uploads/3/1/6/0/31603209/9823151.png", X FILES.
-rtmp://192.99.38.122/app/ playpath=xfiles02 swfUrl=http://www.tgun.tv/lock/player.swf pageUrl=http://tgun.tv/shows/ch1 playpath=xfiles02
