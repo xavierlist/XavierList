@@ -1,7 +1,7 @@
 
 
 <item>
-<title>[COLOR lime]  *[/COLOR][COLOR white][B] TV pelis online 24/7vvv[/B][/COLOR]</title>
+<title>[COLOR lime]  *[/COLOR][COLOR cyan][B]  24/7 [/B][/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>[COLOR dodgerblue]AR[COLOR white]GEN[/COLOR]TO[/COLOR][COLOR lime]*[/COLOR][B][COLOR white][makelist.param2][/COLOR][/B]
@@ -39,7 +39,7 @@
 <accept>Accept-Encoding=gzip,deflate,text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8</accept>
 <cookieJar></cookieJar>
 </regex>
-			<thumbnail>http://cdn.vaughnsoft.com/vaughnsoft/vaughn/img_profiles/[makelist.param2]_320.jpg</thumbnail></item>
+			<thumbnail></thumbnail></item>
 ]]></listrepeat>
 <expres>a href="/(.*?)"[\w\W\s]{0,22}browseTxt">(.*?)<</expres>
 <page>http://vaughnlive.tv/browse/espanol</page>
@@ -47,8 +47,8 @@
 <referer></referer>
 <cookieJar></cookieJar>
 </regex>
-<thumbnail>http://callawayplumbinganddrains.ca/wp-content/uploads/2014/02/Internet-Network-Marketing-24-7.png</thumbnail>
-<fanart>https://dl.dropboxusercontent.com/s/oe11jpn1k2yj99g/BANNER.jpg</fanart>
+<thumbnail></thumbnail>
+<fanart></fanart>
 </item> 
 
 
