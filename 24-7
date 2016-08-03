@@ -10,9 +10,7 @@
 
 
 
-			<title>[COLOR dodgerblue]AR[COLOR white]GEN[/COLOR]TO[/COLOR][COLOR lime]*[/COLOR][B][COLOR white][makelist.param2][/COLOR][/B]</title>
-			<link>rtmp://$doregex[get_ip]/live app=live?$doregex[get_key] playpath=live_[makelist.param1]  swfUrl=http://vaughnlive.tv$doregex[get_channel] pageUrl=http://vaughnlive.tv/  live=true</link>
-<regex>
+<item>		
 <name>get_ip</name>
 <expres>([^;]*?);:</expres>    
 <page>http://mvn.vaughnsoft.net/video/edge/mnv-live_[makelist.param1]?0.1.1.759_190-190-0.5933709153905511</page>                               
