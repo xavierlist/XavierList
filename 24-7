@@ -19,8 +19,8 @@
 <agent>Mozilla/5.0</agent>
 <accept>Accept-Encoding=gzip,deflate,text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8</accept>
 <cookieJar></cookieJar>
-</regex>
-<regex>
+<item>
+<item>
 <name>get_key</name>
 <expres>mvnkey-(.*?);</expres>  
 <page>http://mvn.vaughnsoft.net/video/edge/mnv-live_[makelist.param1]?0.1.1.759_190-190-0.5933709153905511</page>                              
@@ -29,8 +29,8 @@
 <agent>Mozilla/5.0</agent>
 <accept>Accept-Encoding=gzip,deflate,text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8</accept>
 <cookieJar></cookieJar>
-</regex>
-<regex>
+<item>
+<item>
 <name>get_channel</name>
 <expres>embedSWF\(\"(.*?)"</expres>    
 <page>http://vaughnlive.tv/[makelist.param1]</page>                             
@@ -39,8 +39,8 @@
 <agent>Mozilla/5.0</agent>
 <accept>Accept-Encoding=gzip,deflate,text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8</accept>
 <cookieJar></cookieJar>
-</regex>
-			<thumbnail>http://cdn.vaughnsoft.com/vaughnsoft/vaughn/img_profiles/[makelist.param2]_320.jpg</thumbnail></item>
+<item>
+			<thumbnail></thumbnail></item>
 ]]></listrepeat>
 <expres>a href="/(.*?)"[\w\W\s]{0,22}browseTxt">(.*?)<</expres>
 <page>http://vaughnlive.tv/browse/espanol</page>
