@@ -8,10 +8,10 @@
   
  
   
-<item><link>$doregex[id]</link><regex><name>id</name><expres>file:'(.*)'</expres><page>http://streamin.to/embed-jqxqgupykrjo-740x360.html</page>	 <referer>http://streamin.to</referer></regex>         <title>Un Espía y Medio - HCS Audio Latino</title>
-    <thumbnail>https://image.tmdb.org/t/p/w500/q7GOSxRsBLTJysmAEjFoQZfScsq.jpg</thumbnail>
-     <fanart>https://image.tmdb.org/t/p/original/nX64YARJo4OugPTSVuvFwZzcqM4.jpg</fanart>
-     <genre>Acción, Comedia</genre>         </item>
+<item><link>$doregex[id]</link><regex><name>id</name><expres>file:'(.*)'</expres><page>https://openload.co/embed/6s-iAIuMp3I/</page>	 <referer>http://streamin.to</referer></regex>         <title>Pets</title>
+    <thumbnail>http://es.web.img2.acsta.net/c_300_300/pictures/16/04/12/15/36/321344.jpg</thumbnail>
+     <fanart>http://www.laurag.tv/wp-content/uploads/2016/04/la-vida-secreta-de-tus-mascotas.png</fanart>
+     <genre>infantil</genre>         </item>
 
 <item><link>$doregex[id]</link><regex><name>id</name><expres>file:'(.*)'</expres><page>http://streamin.to/embed-f9cmlwdxqota-740x360.html</page>	 <referer>http://streamin.to</referer></regex>      <title>Mente Implacable HDRIP</title>
     <thumbnail>https://image.tmdb.org/t/p/w500/6K5JOW6HmrwJnP0VILq667cspnS.jpg</thumbnail>
