@@ -8,7 +8,7 @@
   
  
   
-<item><link>$doregex[id]</link><regex><name>id</name><expres>file:'(.*)'</expres><page>https://openload.co/embed/6s-iAIuMp3I/</page>	 <referer>http://streamin.to</referer></regex>         <title>Pets</title>
+<item><link>$doregex[id]</link><regex><name>id</name><expres>file:'(.*)'</expres><page>http://streamin.to/embed-wdbdvra26dsa-740x360.html</page>	 <referer>http://streamin.to</referer></regex>         <title>Pets</title>
     <thumbnail>http://es.web.img2.acsta.net/c_300_300/pictures/16/04/12/15/36/321344.jpg</thumbnail>
      <fanart>http://www.laurag.tv/wp-content/uploads/2016/04/la-vida-secreta-de-tus-mascotas.png</fanart>
      <genre>infantil</genre>         </item>
