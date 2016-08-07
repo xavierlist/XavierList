@@ -8,7 +8,7 @@
   
  
   
-<item><link>$doregex[id]</link><regex><name>id</name><expres>file:'(.*)'</expres><page>http://powvideo.net/w8j3li1tfws1</page>	 <referer>http://streamin.to</referer></regex>         <title>Pets</title>
+<item><link>$doregex[id]</link><regex><name>id</name><expres>file:'(.*)'</expres><page>https://15zfn3c.oloadcdn.net/dl/l/7lh08j3eLCk/52qLiawemJ4/Mascotas+%282016%29+Latino+Line+HDTC+720p+KEITH.mp4?mime=true</page>	 <referer>http://streamin.to</referer></regex>         <title>Pets</title>
     <thumbnail>http://es.web.img2.acsta.net/c_300_300/pictures/16/04/12/15/36/321344.jpg</thumbnail>
      <fanart>http://www.laurag.tv/wp-content/uploads/2016/04/la-vida-secreta-de-tus-mascotas.png</fanart>
      <genre>infantil</genre>         </item>
